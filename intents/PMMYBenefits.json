@@ -1,0 +1,74 @@
+{
+  "id": "90b67e42-eecc-424b-9af9-771d9783146c",
+  "name": "PMMYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6016e738-456e-4b87-b8e0-d77f82625a1c",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e7383f57-ae9b-4bcb-ad36-bd8b5a56f087",
+          "name": "pmmy",
+          "required": false,
+          "dataType": "@PMMY",
+          "value": "$pmmy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "As  part of the scheme, business loans can be taken for small amounts at affordable  interest rates with discounted  interest rates for women. The credit guarantee is  taken by the government."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This policy is especially beneficial for food  vendors and shopkeepers. Repayment scheme may extend upto 7 years. The funds shall however only be used for business purposes"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

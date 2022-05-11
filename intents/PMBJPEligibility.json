@@ -1,0 +1,84 @@
+{
+  "id": "78ebeb66-5243-43a8-a24c-8659e83cbfe7",
+  "name": "PMBJPEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef5e0b63-4c19-4ad6-bb15-a35d9526ddf0",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c64eac9-9be7-4227-b988-e1e274a56c30",
+          "name": "pmbjp",
+          "required": false,
+          "dataType": "@PMBJP",
+          "value": "$pmbjp",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "State Governments or any organization / reputed NGOs / Trusts / Private hospitals / Charitable institutions / Doctors / Unemployed pharmacist/ individual entrepreneurs are eligible to apply for new Jan Aushadhi stores."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The applicants shall have to employ one B.Pharma/D.Pharma degree holder as Pharmacist in their proposed store."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Another requirement is the Financial capacity to run the Store supported by Valid document or affidavit for having good financial condition and ready to invest to run Pradhan Mantri Bhartiya Janaushadhi Kendra smoothly as per  requirements."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

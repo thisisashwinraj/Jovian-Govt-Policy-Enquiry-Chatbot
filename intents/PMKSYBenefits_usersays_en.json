@@ -1,0 +1,232 @@
+[
+  {
+    "id": "3955ad93-5a6f-4d67-be1b-3701b50da5fe",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered under ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKSY",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba5873b3-5c4b-4807-83c3-b7d618dcf673",
+    "data": [
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a9cdae6-8949-4619-b928-2defdacbb359",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92f81bff-ce47-4bf3-9da4-0e18119601ea",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32dca0ec-839d-405f-9cff-6ead43e523e3",
+    "data": [
+      {
+        "text": "Why should I open a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKSY",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7ef1685-3f1a-45d2-a920-67e4c6f7dd62",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKSY",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ba63fb5-c5a1-4e24-b6e1-4d56d6c33a4b",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31f56e4f-0daf-466f-85fe-459b8a8ed32c",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening an account under ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKSY",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

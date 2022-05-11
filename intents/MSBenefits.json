@@ -1,0 +1,74 @@
+{
+  "id": "e923b398-8838-4ca0-807e-a5743eb152e2",
+  "name": "MSBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87bd163f-1d3c-4d2b-873c-80f9069a7639",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "eb674d9e-87b8-4feb-b8ae-fab86a6912d3",
+          "name": "ms",
+          "required": false,
+          "dataType": "@MS",
+          "value": "$ms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mission Sagar has helped to safeguard land and maritime interests which can strengthen the trust between India and its neighboring countries. It has also deeprooted the security and economic cooperation with our maritime partners."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Additionally, India also targets to dispel China’s string of pearls doctrine and its growing clout in the region."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

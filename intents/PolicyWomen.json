@@ -1,0 +1,77 @@
+{
+  "id": "67661ec8-5315-4fa2-833a-29af2c47c9ab",
+  "name": "PolicyWomen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e8ef2ed6-903c-4fd8-85e7-0e65a4094d71",
+          "name": "policiesforwomen",
+          "required": false,
+          "dataType": "@PoliciesForWomen",
+          "value": "$policiesforwomen",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options.",
+          "replies": [
+            "SERB POWER",
+            "BBBPY",
+            "MEH",
+            "SWADHAR"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Government of India has introduced several schemes that focus on women and aims to provide them with their due social dignity and ensure ways of earning"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of the most noticeable  schemes include SERB Promoting Opportunities for Women in Exploratory Research),  Beti Bachao, Beti Padhao Yojana, Mahila E-Haat and SWADHAR Greh"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

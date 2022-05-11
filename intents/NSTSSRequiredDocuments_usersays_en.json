@@ -1,0 +1,328 @@
+[
+  {
+    "id": "5b5b15eb-f5f2-4621-a074-0088bfe406f9",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "NSTSS",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69fd352b-7e0e-4051-b7ff-bd5e78462677",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "NSTSS",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0f30529-8728-44b6-8b58-d09d244c9978",
+    "data": [
+      {
+        "text": "Required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "NSTSS",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd97eee6-2afe-4247-80de-a07d04bf5ec7",
+    "data": [
+      {
+        "text": "What all ",
+        "userDefined": false
+      },
+      {
+        "text": "certificates",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for starting a ",
+        "userDefined": false
+      },
+      {
+        "text": "NSTSS",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "895c28ee-2e66-4a4c-8f05-caeea3f702d9",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "legal papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "National Sports Talent Search Scheme",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73e34591-b7e2-4c73-9c8e-c4b4af1546c3",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "official papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "National Sports Talent Search Scheme",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7849c6e2-eba2-4576-9d37-7a45d46ad097",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "NSTSS",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "482e9660-598b-4619-a253-e929719f800c",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for participating in the ",
+        "userDefined": false
+      },
+      {
+        "text": "National Sports Talent Search Scheme",
+        "meta": "@NSTSS",
+        "alias": "nstss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

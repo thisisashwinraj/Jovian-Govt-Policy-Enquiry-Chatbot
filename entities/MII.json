@@ -1,0 +1,9 @@
+{
+  "id": "e6131b6a-e310-4d52-9634-72da688023a7",
+  "name": "MII",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

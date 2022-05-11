@@ -1,0 +1,9 @@
+{
+  "id": "e882a908-127a-4886-a19d-09b28aa60424",
+  "name": "IGNOAPS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

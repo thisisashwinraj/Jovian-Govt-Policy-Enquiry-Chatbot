@@ -1,0 +1,84 @@
+{
+  "id": "640967f2-8e3a-4a15-bc23-71bb2d4955a2",
+  "name": "GMSEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe5ab15b-734f-4eed-9989-c49f8f32a9e6",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4be017cf-2268-46f1-93b6-4f1a83f802cb",
+          "name": "gms",
+          "required": false,
+          "dataType": "@GMS",
+          "value": "$gms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Resident Indians which includes individuals, HUFs, Trusts (including Mutual Funds/Exchange Traded Funds registered under SEBI (Mutual Fund) regulations) and companies can make deposits under this scheme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Deposit accounts under GMS are subject to the same rules with regard to customer identification as are applicable to any other deposit account. A minimum of 10g raw gold is required as an initial one-time deposit"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The individuals also need to create a savings or current account with the designated bank before opening a gold deposit account after complying with the KYC norms."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

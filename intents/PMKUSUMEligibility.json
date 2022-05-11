@@ -1,0 +1,64 @@
+{
+  "id": "5d017ac7-985a-429a-813d-7d2a9836a4b2",
+  "name": "PMKUSUMEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6974c1b5-12d1-4fd9-8dda-8f9edf0223ae",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "12332573-51af-4d58-8fd8-3f45883ca11b",
+          "name": "pmkusum",
+          "required": false,
+          "dataType": "@PMKUSUM",
+          "value": "$pmkusum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The eligible categories for KUSUM Scheme are individual farmers, A group of Farmers, Farmer Producer Organisations, Panchayat, Co-operatives, and Water User Associations."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

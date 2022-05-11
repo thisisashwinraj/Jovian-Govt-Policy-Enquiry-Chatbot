@@ -1,0 +1,182 @@
+[
+  {
+    "id": "44e9aad9-7cab-42fc-a31e-ba52bd590a84",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Mission COVID Suraksha",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f286f3d4-21dd-4913-b053-719f7c87f04c",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Mission COVID Suraksha",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0acd2890-a09b-43a7-91c5-38e377cf0ff5",
+    "data": [
+      {
+        "text": "What do you know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "MCOVIDS",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68a3b027-9074-4fea-9d88-24c1774f6bb0",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "MCOVIDS",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97b25c92-7463-4535-85bc-34a2be7ea7eb",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Mission COVID Suraksha",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "618d19ef-d92a-4186-926d-5621d54c7e0f",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Mission COVID Suraksha",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26d5553f-929d-41a1-8ced-0ea0d9e2990b",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "MCOVIDS",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b25ac68-c796-45bc-bb7d-d0d7d91e22cc",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Mission COVID Suraksha",
+        "meta": "@MCOVIDS",
+        "alias": "mcovids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

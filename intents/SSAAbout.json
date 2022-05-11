@@ -1,0 +1,76 @@
+{
+  "id": "c2030328-1d4f-46db-a663-03a0eb40a1b8",
+  "name": "SSAAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "89c47997-50ee-49a0-8966-c21a07245c6a",
+          "name": "ssa",
+          "required": false,
+          "dataType": "@SSA",
+          "value": "$ssa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Sarva Shiksha Abhiyan? Choose from the options below",
+          "replies": [
+            "SSA Eligibility",
+            "SSA Documents",
+            "SSA Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sarva Shiksha Abhiyan is a flagship initiative of the GOI to achieve the Universalisation of Elementary Education (UEE) within a time-bound manner as mandated by the Constitution of India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The program is based on Article 21A as a basic right giving the right to education, by which compulsory and free education is to be made available for children aged between 6 and 14 years"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

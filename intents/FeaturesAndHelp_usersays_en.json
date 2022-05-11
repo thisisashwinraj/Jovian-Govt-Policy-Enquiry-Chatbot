@@ -1,0 +1,158 @@
+[
+  {
+    "id": "b18750f5-7b5a-4873-a4db-e284337bf57d",
+    "data": [
+      {
+        "text": "How to start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68b41e61-caec-4bcf-a143-c78392d04108",
+    "data": [
+      {
+        "text": "I dont know  what to do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7adfa79-2213-4426-af36-5c42d973a440",
+    "data": [
+      {
+        "text": "Could you please help  me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ec74c62-4dcb-41c9-8c11-b56e05117563",
+    "data": [
+      {
+        "text": "Tell me what can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73c167a5-2e99-4922-ba10-f31fee660121",
+    "data": [
+      {
+        "text": "List  your features",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9743a6f2-4a9a-41a2-857a-b1666c267d52",
+    "data": [
+      {
+        "text": "I am stuck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c77a24c9-75f1-401e-82a4-15e3b928f30a",
+    "data": [
+      {
+        "text": "I am stuck. help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3afbf3c4-1a8f-4ab6-bad9-5d378124fbf1",
+    "data": [
+      {
+        "text": "what is your use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4425cff-362b-4d1e-b426-96240b899d79",
+    "data": [
+      {
+        "text": "what all can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f86e90ce-522c-4d44-b38a-1aae69c07e52",
+    "data": [
+      {
+        "text": "What can you do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb5471b8-3946-408a-82ab-012d3f8ee26a",
+    "data": [
+      {
+        "text": "Guide me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20f07134-e909-4f9e-8d11-5b729ab44894",
+    "data": [
+      {
+        "text": "Help  me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

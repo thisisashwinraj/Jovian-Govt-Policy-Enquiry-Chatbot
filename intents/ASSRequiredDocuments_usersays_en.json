@@ -1,0 +1,328 @@
+[
+  {
+    "id": "ab1bfb73-9df8-4266-96ce-29ea7389f505",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "ASS",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "610d51c3-797b-4fa2-a3c8-b7c801c09552",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "ASS",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "794fdfed-70b5-48ba-a96f-967bb680c248",
+    "data": [
+      {
+        "text": "Required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "ASS",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad636929-3cf0-4570-9834-f791b1629370",
+    "data": [
+      {
+        "text": "What all ",
+        "userDefined": false
+      },
+      {
+        "text": "certificates",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for starting a ",
+        "userDefined": false
+      },
+      {
+        "text": "ASS",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd736d57-2c2e-42a6-88e2-e78c9e84265d",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "legal papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayushman Sahakar Scheme",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0f9982e-2bf3-4f4c-9fb2-e29ca3d61f93",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "official papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayushman Sahakar Scheme",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f397a1d7-3cc0-4100-a048-6a7d541c3454",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "ASS",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "059d1552-f79e-4fe9-97a2-8088e0136986",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayushman Sahakar Scheme",
+        "meta": "@ASS",
+        "alias": "ass",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

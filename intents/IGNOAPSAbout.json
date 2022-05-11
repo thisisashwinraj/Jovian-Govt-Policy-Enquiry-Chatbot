@@ -1,0 +1,66 @@
+{
+  "id": "66426a78-5ad4-4c60-b552-6a579fdf2d34",
+  "name": "IGNOAPSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "df41fe60-7cc1-4065-9c99-83440f52bdd5",
+          "name": "ignoaps",
+          "required": false,
+          "dataType": "@IGNOAPS",
+          "value": "$ignoaps",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Indira Gandhi National Old Age Pension Scheme? Choose from the options below",
+          "replies": [
+            "IGNOAPS Eligibility",
+            "IGNOAPS Documents",
+            "IGNOAPS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Indira Gandhi National Old Age Pension Scheme is a non-contribution pension scheme where the beneficiaries do not have to pay any amount to receive the pension. The prime objective of the scheme is to provide social protection to the old-aged citizens."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

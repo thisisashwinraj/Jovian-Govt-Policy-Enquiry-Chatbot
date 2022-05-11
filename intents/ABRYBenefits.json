@@ -1,0 +1,84 @@
+{
+  "id": "5536efc4-b796-408f-bfa1-a780efb13f34",
+  "name": "ABRYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b9504e05-d02d-43a1-ae45-e65510d37fd2",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8dbc0386-241f-4aae-9f68-7b08af10e3ed",
+          "name": "abry",
+          "required": false,
+          "dataType": "@ABRY",
+          "value": "$abry",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The monthly employee’s EPF contribution @ 12% of monthly wage which is liable to be deducted from the wage of the employee is now to be paid by the Central Govt. in the EPF account of new employees of eligible establishments. So there will be no deduction from the wages of the new employees so he/ she will have a higher take-home salary."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Employer of eligible establishment is not required to pay his share of EPF and EPS contribution @ 12% of the monthly wage of new employees of his establishment provided the total number of employees in his establishment is up to one thousand (1000) in wage month of September 2020. So the employer saves this money."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This also incentivizes employers of all eligible assets to retain all their new employees at higher take-home pay"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "4a9081d6-d7ea-4e83-be37-76a8f29853cf",
+  "name": "KVPAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "105143c8-a830-4c42-b790-12d91e7cbe5b",
+          "name": "kvp",
+          "required": false,
+          "dataType": "@KVP",
+          "value": "$kvp",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Kisan Vikas Patra? Choose from the options below",
+          "replies": [
+            "KVP Eligibility",
+            "KVP Documents",
+            "KVP Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A savings certificate scheme, Kisan Vikas Patra was originally launched in the year 1988 by India Post. This is basically the Indian Government’s initiative to encourage small savings in the country for the investor’s secure future."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The tenure of the program is 124 months. The interest 6.9% A minimum of Rs 1,000 has to be invested while there is no upper limit to the investment amount."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Additionally, you can also avail tax benefits under Section 80C of the Income Tax Act, 1961. KVP comes in the following types: Single holder type certificate,  Joint A Type certificate, and Joint certificate"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

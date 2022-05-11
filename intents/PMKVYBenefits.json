@@ -1,0 +1,84 @@
+{
+  "id": "55931b6e-b8bd-4d94-a79b-4879d837a7ae",
+  "name": "PMKVYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "455b9c64-488d-4af6-b632-f650818fda85",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c7230f95-1747-4f3f-bf85-d3982c5bad37",
+          "name": "pmkvy",
+          "required": false,
+          "dataType": "@PMKVY",
+          "value": "$pmkvy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The policy is equally beneficial for individuals as well as the nation. The primary benefit includes free of charge industry-related skill training for unemployed youth and college/school dropouts."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Completing the training will award them with certifications and Skill India card which can be advantageous when applying for jobs. The policy also offers economic as well as placement assistance to the candidates after acquiring the certification."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This policy efficiently bridges the gap between skills and industry requirements and contributes to the economic growth of the country by building skilled manpower."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

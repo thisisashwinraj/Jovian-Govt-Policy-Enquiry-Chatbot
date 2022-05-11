@@ -1,0 +1,9 @@
+{
+  "id": "0b8aaebb-2b68-441f-a69b-96dabf9de142",
+  "name": "PMKUSUM",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "89fdf842-a5c1-4809-af62-12c21d1b1282",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered under ",
+        "userDefined": false
+      },
+      {
+        "text": "PMAASHA",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f78aaa6d-76f1-4a0f-a63e-1d6c0f72d35d",
+    "data": [
+      {
+        "text": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eafe5902-8f2e-47fa-a441-caa1a561b1fb",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17ea19e6-d10a-4908-bf06-bacb7c47dcc6",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e59b7c84-89ce-4410-b5b0-5d363bf5f73a",
+    "data": [
+      {
+        "text": "Why should I open a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMAASHA",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8ad11c2-a4d2-403f-bca4-93d498efd79f",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "650dd4c4-662d-460f-9e1f-db57bf46c1f3",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMAASHA",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25af6095-715a-4b03-b6db-7a2c90ad09d9",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "being",
+        "userDefined": false
+      },
+      {
+        "text": " a part of ",
+        "userDefined": false
+      },
+      {
+        "text": "PMAASHA",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

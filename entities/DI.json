@@ -1,0 +1,9 @@
+{
+  "id": "48e5497c-9041-4e6c-bbd4-1c760b8653a3",
+  "name": "DI",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

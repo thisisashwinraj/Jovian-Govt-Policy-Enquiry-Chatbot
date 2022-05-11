@@ -1,0 +1,328 @@
+[
+  {
+    "id": "57d74ddd-c6d3-452f-9e37-0131bf02217c",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e9c5c68-617f-4199-a816-ea0ed0802546",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da0792e6-33c3-4c97-8d07-6e7d6dc53b34",
+    "data": [
+      {
+        "text": "Required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6919502-1ac3-4952-bc6c-bbf72bf84c97",
+    "data": [
+      {
+        "text": "What all ",
+        "userDefined": false
+      },
+      {
+        "text": "certificates",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for starting a ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4876dbf0-7d82-429a-a0b1-b904c4ee8ee4",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "legal papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0a76029-7157-49cb-89c8-2db1b2354f0f",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "official papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e596c3f-a46d-4ef0-8145-9d9d0fbf640c",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c627dcd-108f-47f0-bd01-d7a3a9eb8c88",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

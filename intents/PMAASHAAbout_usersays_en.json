@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1b68818e-e3bc-4f55-af45-2337940d0260",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Annadata Aay SanraksHan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cebd9975-ef7f-4d9b-bc4c-f8b33a182af8",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "PM Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "970cc280-8bb9-4a40-99b0-762d63cd2d69",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMAASHA",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62767322-3912-4702-9b5f-2538234c9145",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayushman Sahakar Yojana",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b52b5e1-fa76-429f-9ece-cb331aded5a6",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b987ad0-18ae-4375-b690-1041551b49f5",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "026269c8-5d1f-4ba5-99e2-afe0e3834ad2",
+    "data": [
+      {
+        "text": "What is  ",
+        "userDefined": false
+      },
+      {
+        "text": "Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf2d7ebe-5980-400f-b160-b884297ca16e",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Annadata Aay SanraksHan Abhiyan",
+        "meta": "@PMAASHA",
+        "alias": "pmaasha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

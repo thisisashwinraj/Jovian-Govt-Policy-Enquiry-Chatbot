@@ -1,0 +1,84 @@
+{
+  "id": "76a44d7b-49bc-46a8-afb4-2c99810d4aa3",
+  "name": "PMGKYEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d3bc1cd-b614-4a3c-903f-4265db654491",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b7a51fc0-4cf6-4f3a-afee-dbf92d820a93",
+          "name": "pmgky",
+          "required": false,
+          "dataType": "@PMGKY",
+          "value": "$pmgky",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Families belonging to the Below Poverty Line - Antyodaya Anna Yojana (AAY) and Priority Households (PHH) categories will be eligible for the scheme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All primitive tribal households and the households headed by widows or terminally ill or disabled persons or persons aged 60 years or more with no assured means of subsistence or societal support are also eligible."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Additionally, landless agriculture laborers, marginal farmers, and rural artisans such as potters, tanners, weavers, blacksmiths, carpenters, slum dwellers, and persons earning their livelihood on daily basis in the informal sector are also eligible"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

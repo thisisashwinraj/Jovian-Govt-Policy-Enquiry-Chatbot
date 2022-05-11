@@ -1,0 +1,76 @@
+{
+  "id": "ee4d29de-2241-4452-8b98-df6aff73a68a",
+  "name": "PMBJPAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af23eb10-f467-4410-b9e1-9a1d5b044b42",
+          "name": "pmbjp",
+          "required": false,
+          "dataType": "@PMBJP",
+          "value": "$pmbjp",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Bhartiya Janaushadhi Pariyojana? Choose from the options below",
+          "replies": [
+            "PMBJP Eligibility",
+            "PMBJP Documents",
+            "PMBJP Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "State Governments or any organization / reputed NGOs / Trusts / Private hospitals / Charitable institutions / Doctors / Unemployed pharmacist/ individual entrepreneurs are eligible to apply for new Jan Aushadhi stores."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The applicants shall have to employ one B.Pharma or D.Pharma degree holder as a Pharmacist in their proposed store and shall own space or hire one (that is a minimum of 120 sq feet) with a proper lease agreement, or space allotment letter."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

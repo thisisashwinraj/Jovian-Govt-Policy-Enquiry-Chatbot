@@ -1,0 +1,190 @@
+[
+  {
+    "id": "f9429991-2e7e-4aaf-a32b-ea415225f7ce",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "farmers",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88096c86-5e71-4ba6-a661-5af6fe05c636",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "farmers",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      },
+      {
+        "text": " and  ",
+        "userDefined": false
+      },
+      {
+        "text": "agriworkers",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09b2ef77-6946-4bf3-87cd-6b3c18aaad81",
+    "data": [
+      {
+        "text": "Under what scheme can ",
+        "userDefined": false
+      },
+      {
+        "text": "farmers",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      },
+      {
+        "text": " get support for ",
+        "userDefined": false
+      },
+      {
+        "text": "agricultural",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      },
+      {
+        "text": " activities",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a276960-1eaa-4d3d-8c7f-4492fe04451e",
+    "data": [
+      {
+        "text": "Schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "peasants",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba8c8f0f-b1a4-40ff-9fcb-3b3350161711",
+    "data": [
+      {
+        "text": "What are some government policies related to the ",
+        "userDefined": false
+      },
+      {
+        "text": "agriculture sector",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ff13f4b-9d8a-44c6-8919-41682d412912",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some policies to help the ",
+        "userDefined": false
+      },
+      {
+        "text": "farmers",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd2555d9-088e-4883-a53f-9ba516003f7e",
+    "data": [
+      {
+        "text": "Policies for ",
+        "userDefined": false
+      },
+      {
+        "text": "farmers",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04d56953-2702-4a74-a122-7dd3d7996f02",
+    "data": [
+      {
+        "text": "What are some government-backed schemes for supporting ",
+        "userDefined": false
+      },
+      {
+        "text": "farmers",
+        "meta": "@PoliciesForFarmers",
+        "alias": "policiesforfarmers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

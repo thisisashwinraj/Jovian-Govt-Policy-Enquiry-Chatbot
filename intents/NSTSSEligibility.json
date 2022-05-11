@@ -1,0 +1,84 @@
+{
+  "id": "75be9c39-f252-48ec-8b10-8b3b88c3f515",
+  "name": "NSTSSEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c708b8c6-7e0c-461f-9c98-6242a06913ea",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d62cbb1a-3ace-4318-b6bb-513fcf672455",
+          "name": "nstss",
+          "required": false,
+          "dataType": "@NSTSS",
+          "value": "$nstss",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Any Indian student who is living in India and belonging to the age group of 8 to 12 years can apply for enrolling in the scheme benefits."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "However, only those candidates who have taken part and passed the physical efficiency and sports aptitude test will be eligible to avail the benefits."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Those candidates who aren’t selected can again opt for registration after six months."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

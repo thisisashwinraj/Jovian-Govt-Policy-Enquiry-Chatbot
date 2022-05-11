@@ -1,0 +1,77 @@
+{
+  "id": "8ea9e62a-8df3-4bd8-9f8a-910f33675ed9",
+  "name": "PolicyLoans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2810320a-f974-45f4-8ff6-f51f97c636ae",
+          "name": "policiesforloans",
+          "required": false,
+          "dataType": "@PoliciesForLoans",
+          "value": "$policiesforloans",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to learn more about these? Choose from an option below:",
+          "replies": [
+            "PMJDY",
+            "PMMY",
+            "NIRVIK",
+            "SVANIDHI"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The government of India offers a variety of finance packages to help common people take loans for personal financing."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This includes policies like Pradhan Mantri Jan Dhan Yojana, Pradhan Mantri Mudra Yojana, Niryat Rin Vikas Yojana, and Pradhan Mantri Street Vendor’s AtmaNirbhar Nidhi."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

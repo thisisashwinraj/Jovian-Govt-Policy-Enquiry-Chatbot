@@ -1,0 +1,264 @@
+[
+  {
+    "id": "ba70bc09-048e-4a69-8e81-f896f6255d00",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "eligibility criteria",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Mudra Yojana",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dcd1dce-81bb-4ee2-a027-e641937b5905",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "PMMY",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72c2d67d-e96c-437e-a40d-28c70cd53d41",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "eligibility requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Mudra Yojana",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40aba4df-2b7b-4af1-98d9-7fb2701759ca",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "eligibility criteria",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "PM Mudra Yojana",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30acb788-5363-4ee8-8548-6bf40bcc090f",
+    "data": [
+      {
+        "text": "What are all the ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for starting a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMMY",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8dbc79a9-cd5b-4252-9612-6a61c9f1b9e6",
+    "data": [
+      {
+        "text": "Who all are ",
+        "userDefined": false
+      },
+      {
+        "text": "eligible",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "PMMY",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "500ab29b-6f49-4a23-8113-092fd0c33115",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "qualifications",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "PM Mudra Yojana",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e7915de-753d-439d-aca4-a4c454996643",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMMY",
+        "meta": "@PMMY",
+        "alias": "pmmy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

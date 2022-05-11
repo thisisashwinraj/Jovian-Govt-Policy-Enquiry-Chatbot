@@ -1,0 +1,78 @@
+{
+  "id": "51d78e45-5135-4fc0-a725-1cbc95465555",
+  "name": "PDUSJYRequiredDocuments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8bfbec7b-f0c2-41d7-9ddc-687ffa31518a",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "957bd9f5-cf94-4bcb-92a3-ea37d7bee267",
+          "name": "requireddocuments",
+          "required": false,
+          "dataType": "@RequiredDocuments",
+          "value": "$requireddocuments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ea779554-174b-4d94-b289-0277370913e1",
+          "name": "pdusjy",
+          "required": false,
+          "dataType": "@PDUSJY",
+          "value": "$pdusjy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The documents required for registering in this policy depends on the scheme that the applicant wishes to enroll in.  To register in the Shram Suvidha portal, the  applicant must have a valid mobile number and an e-mail id. Apart from this,  there are no such document requirements."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

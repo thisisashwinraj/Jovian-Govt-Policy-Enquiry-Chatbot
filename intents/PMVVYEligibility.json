@@ -1,0 +1,74 @@
+{
+  "id": "cba1cc72-51e7-4219-9d45-ec953057fefa",
+  "name": "PMVVYEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b025a71-84c7-4245-93f4-c50f948ed50f",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d24af203-405e-4e29-8d28-ba33f1b84d88",
+          "name": "pmvvy",
+          "required": false,
+          "dataType": "@PMVVY",
+          "value": "$pmvvy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The applicant must be an Indian resident above 60 years of age. There is no upper limit for entry age for the scheme. The applicant should be ready to avail of the polity term of 10 years and the total purchase price shall not exceed Rs 15 lakh."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The minimum pension that is earned for a month, quarter, half-yearly, and yearly is Rs.1,000, Rs.3,000, Rs.6,000, and Rs.12,000, respectively and Rs.10,000, Rs.30,000, Rs.60,000, and Rs.1,20,000 is the maximum pension that can be earned for a month, quarter, half-yearly, and yearly, respectively."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

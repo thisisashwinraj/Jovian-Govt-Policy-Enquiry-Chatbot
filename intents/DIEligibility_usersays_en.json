@@ -1,0 +1,280 @@
+[
+  {
+    "id": "44bbaaa3-b16e-4ead-ae52-8d75f7b91df0",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DI",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa5261c2-5cfe-4976-b20c-0325e72681f9",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "eligibility requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " are there for ",
+        "userDefined": false
+      },
+      {
+        "text": "DI",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fa55e85-bcec-4e4d-b42c-4ce8062ac321",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "qualifications",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DI",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2672f370-ef89-40c4-b1a9-b9430c9e42a6",
+    "data": [
+      {
+        "text": "Who all are ",
+        "userDefined": false
+      },
+      {
+        "text": "eligible",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DI",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92f65b0b-dcb4-4f7d-9119-ebaa08858e17",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "eligibility criteria",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for PM ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f46df50-1356-471f-853f-45289016bce4",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "eligibility",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "752e3b78-20c6-4884-99cf-7388faf6fc13",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "requirements",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "DI",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0714179-4e6e-4204-9f57-8ac98dc959d0",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "eligibility",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "criteria",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

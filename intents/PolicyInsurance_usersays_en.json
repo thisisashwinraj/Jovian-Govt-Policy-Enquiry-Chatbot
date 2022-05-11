@@ -1,0 +1,214 @@
+[
+  {
+    "id": "1d439908-65d6-4705-bff5-746de924325d",
+    "data": [
+      {
+        "text": "What all ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      },
+      {
+        "text": " schemes are offered by the government",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb62dbae-a980-41bc-958b-6d9c1e6e51eb",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      },
+      {
+        "text": " schemes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2005ce61-ea32-420c-ba94-d0137d501c58",
+    "data": [
+      {
+        "text": "What are some schemes that offer ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44f4173c-6454-488d-8124-e0a67d1add43",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      },
+      {
+        "text": " plans offered ",
+        "userDefined": false
+      },
+      {
+        "text": "in India",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5510301-d0b2-4cec-b273-184ccf9483c9",
+    "data": [
+      {
+        "text": "What are some life ",
+        "userDefined": false
+      },
+      {
+        "text": "cover",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      },
+      {
+        "text": " policies offered  by the Government of ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db73ce26-9c68-4902-97c5-fa3811e71b68",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the life ",
+        "userDefined": false
+      },
+      {
+        "text": "cover",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      },
+      {
+        "text": " schemes offered by ",
+        "userDefined": false
+      },
+      {
+        "text": "Indian",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " government",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d9fbfd4-d0c3-4df3-aadc-8435c830b825",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      },
+      {
+        "text": " policies are offered by the indian government",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84f22ea7-321b-4cf5-bc19-db9038cf4ba2",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some schemes for taking a government sponsored ",
+        "userDefined": false
+      },
+      {
+        "text": "insurance",
+        "meta": "@PoliciesForInsurance",
+        "alias": "policiesforinsurance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

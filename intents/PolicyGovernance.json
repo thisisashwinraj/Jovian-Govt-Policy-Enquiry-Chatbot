@@ -1,0 +1,91 @@
+{
+  "id": "abd427df-c41f-4ef1-8f44-0a209001ec37",
+  "name": "PolicyGovernance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "26516832-0fd5-47e2-8689-ca72c2f644aa",
+          "name": "policiesforgovernance",
+          "required": false,
+          "dataType": "@PoliciesForGovernance",
+          "value": "$policiesforgovernance",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6b7fd0b2-696f-4054-ae5d-a1cad35b6cc4",
+          "name": "healthandsanitation",
+          "required": false,
+          "dataType": "@HealthAndSanitation",
+          "value": "$healthandsanitation",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options.",
+          "replies": [
+            "DI",
+            "ONORCS",
+            "BBBPY",
+            "SWAMITVA"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In order to raise the  standard  of governance, the Government of  India has  announced several  policies concerning administration and e-governance."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of the policies in this regard includes Digital India,  One Nation One Ration Card Scheme, Mission Karmayogi,  Beti Bachao, Beti Padhao Yojana, and Survey of Villages and Mapping with Improvised Technology in Village Areas"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

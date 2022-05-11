@@ -1,0 +1,74 @@
+{
+  "id": "2effdda2-4f28-46c3-bf2f-f4bbcf2d805d",
+  "name": "ABRYEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f893ca4-2cac-48a6-af6d-5c288766136c",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "73059f0c-6e7d-454c-9882-9f203976da7d",
+          "name": "abry",
+          "required": false,
+          "dataType": "@ABRY",
+          "value": "$abry",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Establishments already registered before the commencement of this Scheme shall have to employ, over and above the reference base, minimum two new employees (if the reference base of employee is less than or equal to 50) and minimum five new employees (if the reference base of employees is more than\n50)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For new establishments getting covered \u0026 registered under EPF \u0026 MP Act, 1952 from any date during the validity period of this Scheme from 01.10.2020 to 30.06.2021, the reference base of employees shall be treated as Zero and benefits can be availed for all new eligible employees."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

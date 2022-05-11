@@ -1,0 +1,179 @@
+[
+  {
+    "id": "5654a445-fd6b-441d-9a9d-3ff009dfbd97",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some schemes for youth ",
+        "userDefined": false
+      },
+      {
+        "text": "skill",
+        "meta": "@PoliciesForSkillDev",
+        "alias": "policiesforskilldev",
+        "userDefined": false
+      },
+      {
+        "text": " development",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45ce9ae1-4f45-422d-9a3a-61b5be8e0156",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "skill",
+        "meta": "@PoliciesForSkillDev",
+        "alias": "policiesforskilldev",
+        "userDefined": false
+      },
+      {
+        "text": " development",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30f1cd34-2c3c-48c9-a548-c90c0ad5ff0c",
+    "data": [
+      {
+        "text": "Under which scheme can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "training",
+        "meta": "@PoliciesForSkillDev",
+        "alias": "policiesforskilldev",
+        "userDefined": false
+      },
+      {
+        "text": " and  ",
+        "userDefined": false
+      },
+      {
+        "text": "skill",
+        "meta": "@PoliciesForSkillDev",
+        "alias": "policiesforskilldev1",
+        "userDefined": false
+      },
+      {
+        "text": "  development classes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5c31dd5-17fa-4b4f-b612-5fd55e409a83",
+    "data": [
+      {
+        "text": "What are some government policies related to upskilling common people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cb82c76-8584-4dbc-9286-7157b9ca1244",
+    "data": [
+      {
+        "text": "What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "skill",
+        "meta": "@PoliciesForSkillDev",
+        "alias": "policiesforskilldev",
+        "userDefined": false
+      },
+      {
+        "text": " development  schemes from the Government",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1058c494-d50c-4ac2-aac2-814972c51c2e",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some policies that provide ",
+        "userDefined": false
+      },
+      {
+        "text": "skill",
+        "meta": "@PoliciesForSkillDev",
+        "alias": "policiesforskilldev",
+        "userDefined": false
+      },
+      {
+        "text": "  development and ",
+        "userDefined": false
+      },
+      {
+        "text": "training",
+        "meta": "@PoliciesForSkillDev",
+        "alias": "policiesforskilldev1",
+        "userDefined": false
+      },
+      {
+        "text": " for youth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b337c075-aeeb-4c6a-a799-a0b6d54b35c6",
+    "data": [
+      {
+        "text": "What are some government-backed schemes for getting ",
+        "userDefined": false
+      },
+      {
+        "text": "pension",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

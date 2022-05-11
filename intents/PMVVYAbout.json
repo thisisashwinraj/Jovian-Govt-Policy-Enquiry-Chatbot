@@ -1,0 +1,76 @@
+{
+  "id": "4251af43-06f8-4cf3-b588-589f1fd36cfc",
+  "name": "PMVVYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b076c73-faa0-432b-97df-3ab79c0abff8",
+          "name": "pmvvy",
+          "required": false,
+          "dataType": "@PMVVY",
+          "value": "$pmvvy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Vaya Vandana Yojana? Choose from the options below",
+          "replies": [
+            "PMVVY Eligibility",
+            "PMVVY Documents",
+            "PMVVY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Vaya Vandana Yojana (PMVVY) is a retirement cum pension scheme launched by the Government of India. The money invested by the purchasers of the scheme is called the purchase price."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "As the sovereign guarantees back the scheme, it offers an assured rate of return on investment. PMVVY pays out a regular pension on a fixed frequency(monthly, quarterly, half-yearly, or yearly)."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

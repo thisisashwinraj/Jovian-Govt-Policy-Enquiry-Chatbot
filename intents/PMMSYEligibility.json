@@ -1,0 +1,64 @@
+{
+  "id": "01096ba5-c238-4969-a94d-bd898dba1842",
+  "name": "PMMSYEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "260004a7-cd9a-42e7-be26-41fd6d656e79",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "80531082-bea6-43ce-bfdb-45420ef74440",
+          "name": "pmmsy",
+          "required": false,
+          "dataType": "@PMMSY",
+          "value": "$pmmsy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The beneficiaries under the Pradhan Mantri Matsya Sampada Yojana are the people engaged in fisheries sector like fishers, fish workers, fish vendors, fish cooperatives, fish farmers, SCs/STs/Women/Differently abled persons, fisheries development corporations, SHG’s in fisheries sector etc."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

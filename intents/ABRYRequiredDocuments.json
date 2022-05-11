@@ -1,0 +1,88 @@
+{
+  "id": "c2888283-9a08-428e-9268-5439e2d50556",
+  "name": "ABRYRequiredDocuments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b1985da6-1914-491f-8303-1e9202ab9775",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d372c6c1-7abf-4d97-b148-c82ca23bcf3f",
+          "name": "requireddocuments",
+          "required": false,
+          "dataType": "@RequiredDocuments",
+          "value": "$requireddocuments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8d334377-948e-4fae-9f58-ba5a3bb12dce",
+          "name": "abry",
+          "required": false,
+          "dataType": "@ABRY",
+          "value": "$abry",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To implement ABRY, EPFO has deployed electronic facility on Employer’s portal. Establishments have to declare reference base of employees and update Form 5A to register the establishment and register its “new employees” on the Portal."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "At the time of submission of the ECR on a month to month basis, the employer shall be required to certify the correctness of information furnished electronically in ECR in the certificate and declaration deployed with ECR."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

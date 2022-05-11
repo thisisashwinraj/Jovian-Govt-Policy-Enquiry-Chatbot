@@ -1,0 +1,86 @@
+{
+  "id": "125d674c-aa80-4afa-a3f8-2ce90d2cfc94",
+  "name": "NTTMAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "39cdebc2-0d79-4738-a7ee-54600f65c214",
+          "name": "nttm",
+          "required": false,
+          "dataType": "@NTTM",
+          "value": "$nttm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about National Technical Textiles Mission? Choose from the options below",
+          "replies": [
+            "NTTM Eligibility",
+            "NTTM Documents",
+            "NTTM Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Cabinet Committee on Economic Affairs (CCEA) approved the National Technical Textiles Mission in 2020 with an aim to lift India as a global leader in technical textiles and increase their use in the market."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The present annual value of technical textiles is ₹14,000 crores which are expected to reach ₹20,000 crore by 2021-22 by implementing NTTM."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Further, it will also promise an annual export growth of 10% on an average till 2023-24."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

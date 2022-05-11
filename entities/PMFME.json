@@ -1,0 +1,9 @@
+{
+  "id": "45954c86-51fc-4f46-9fa9-ca4c7e0cb492",
+  "name": "PMFME",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,328 @@
+[
+  {
+    "id": "8e3181e2-f711-4ffd-a4fd-8f3bdf7888c1",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKVY",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d16fa67-57e5-4773-b6c1-c7c07517e17b",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKVY",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1fbe05ba-c05c-4b24-8b29-c1ccd32c00af",
+    "data": [
+      {
+        "text": "Required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKVY",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2f569fe-c08d-4da0-b8af-c40f26498396",
+    "data": [
+      {
+        "text": "What all ",
+        "userDefined": false
+      },
+      {
+        "text": "certificates",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for starting a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKVY",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b0258b9-6718-4b1d-8a90-710f2bf61ac8",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "legal papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00b45adb-91fd-4c40-aeaf-efd5ac1dcbef",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "official papers",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69530a2a-d8db-4b79-9f85-f0fa95ff2f2d",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKVY",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f7fbaaa-695a-453f-8591-e27760229d48",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "required",
+        "meta": "@EligibilityCriteria",
+        "alias": "eligibilitycriteria",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "documents",
+        "meta": "@RequiredDocuments",
+        "alias": "requireddocuments",
+        "userDefined": false
+      },
+      {
+        "text": " for opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

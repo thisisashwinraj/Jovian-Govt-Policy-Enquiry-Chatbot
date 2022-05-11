@@ -1,0 +1,86 @@
+{
+  "id": "c8c59bd9-07df-4837-945f-8f0d864307f7",
+  "name": "KKPAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bfd0f2be-66b1-466d-ba47-5816d0f04755",
+          "name": "kkp",
+          "required": false,
+          "dataType": "@KKP",
+          "value": "$kkp",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Kapila Kalam Program? Choose from the options below",
+          "replies": [
+            "KKP Eligibility",
+            "KKP Documents",
+            "KKP Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Kalam Program for IP (Intellectual Property) Literacy and Awareness was formulated to raise awareness of the significance of patenting inventions."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Through the initiative, the students doing their higher studies will be educated about the right system of the application process for patenting their invention and they will be aware of their rights."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It will encourage colleges and institutions to motivate more students and faculties of such higher educational institutions to file patents."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

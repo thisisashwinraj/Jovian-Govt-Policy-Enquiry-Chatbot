@@ -1,0 +1,9 @@
+{
+  "id": "1b618510-2553-4c42-b85d-63a8e01ddf9e",
+  "name": "HealthAndSanitation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

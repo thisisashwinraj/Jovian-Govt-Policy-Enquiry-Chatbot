@@ -1,0 +1,76 @@
+{
+  "id": "ac80cd09-040f-4d4c-bd8f-af1b28114811",
+  "name": "SMSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ad12e3ca-5c75-45f0-8537-0d087fbe1de6",
+          "name": "sms",
+          "required": false,
+          "dataType": "@SMS",
+          "value": "$sms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Sahakar Mitra Scheme? Choose from the options below",
+          "replies": [
+            "SMS Eligibility",
+            "SMS Documents",
+            "SMS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sahakar Mitra Scheme is a Summer Internship Programme (SIP) run by the National Cooperative Development Corporation (NCDC) that benefits both Cooperatives and young professionals (interns)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It is a paid internship program under which each intern will get financial support over 4 months of the internship period. These summer internships will provide work-related learning experiences to the applicants who have enrolled in the scheme."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

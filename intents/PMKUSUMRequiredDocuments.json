@@ -1,0 +1,88 @@
+{
+  "id": "5d5436dd-eb03-41a9-9410-65245a337c2a",
+  "name": "PMKUSUMRequiredDocuments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6971202d-9863-425e-bf6c-c7a886f8fcb1",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e60f637-2d14-409c-8fb7-6ff89473ee93",
+          "name": "requireddocuments",
+          "required": false,
+          "dataType": "@RequiredDocuments",
+          "value": "$requireddocuments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "89e6d21b-3f46-4ac2-af15-12fa64c0641d",
+          "name": "pmkusum",
+          "required": false,
+          "dataType": "@PMKUSUM",
+          "value": "$pmkusum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The documents required for enrolling into the scheme are an Aadhar card, land documents including KhasraKhatauni, bank account passbook, declaration form, mobile number, and passport size photograph."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "After a successful online application for KUSUM Scheme, farmers should deposit 10% of the total cost to the supplier sent by the department in order to set up a solar pump which will be empowered after the subsidy amount gets sanctioned."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "b4bafae3-b216-4b01-8ed4-d43efcb60fc6",
+  "name": "GMSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eefaf7c1-044b-4bdd-ade1-ecd1cd247cd9",
+          "name": "gms",
+          "required": false,
+          "dataType": "@GMS",
+          "value": "$gms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Gold Monetization Scheme? Choose from the options below",
+          "replies": [
+            "GMS Eligibility",
+            "GMS Documents",
+            "GMS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Gold Monetisation Scheme launched by the Government of India intends to mobilize the gold in custody of households and institutions of the country to advance its use for rewarding purposes and eventually reduce the country\u0027s dependency on the import of gold."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

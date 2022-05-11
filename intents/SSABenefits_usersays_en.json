@@ -1,0 +1,236 @@
+[
+  {
+    "id": "3601a8ec-9110-4298-96fa-35f61b4c678f",
+    "data": [
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65ccb529-842c-43e9-b7eb-5eb90b3a6996",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered under ",
+        "userDefined": false
+      },
+      {
+        "text": "SSA",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f5d1648-c126-485d-93a7-1e8244c77809",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ada66264-5b61-49cc-95bf-29d1fa3df2ec",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96b8e594-5f75-4ed0-9bc7-134710812852",
+    "data": [
+      {
+        "text": "Why should I participate in ",
+        "userDefined": false
+      },
+      {
+        "text": "SSA",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bb5d388-4872-4cc7-b119-f45cd96078e7",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "SSA",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "421c5c27-ac04-4a58-a80c-a7280dd1f08f",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "581e1b28-f008-4005-9f2f-3d48dbf5275e",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "being",
+        "userDefined": false
+      },
+      {
+        "text": " a part of ",
+        "userDefined": false
+      },
+      {
+        "text": "SSA",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

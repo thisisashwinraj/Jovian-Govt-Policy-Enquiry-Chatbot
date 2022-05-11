@@ -1,0 +1,9 @@
+{
+  "id": "619075b6-03d9-4a1e-9416-e98761198a0b",
+  "name": "KKP",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,211 @@
+[
+  {
+    "id": "434c5216-77ba-4168-b377-e633db052d6f",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": true
+      },
+      {
+        "text": " offered under PLI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77192efb-f0b4-456b-80d9-1523e7482cd1",
+    "data": [
+      {
+        "text": "Production Linked Incentive scheme",
+        "meta": "@PLI",
+        "alias": "pli",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad92ae3c-e62c-47a4-bba7-99b515f78d1b",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": true
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Production Linked Incentive scheme",
+        "meta": "@PLI",
+        "alias": "pli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09d42e71-b477-45f7-962a-42c1c6c24388",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Production Linked Incentive scheme",
+        "meta": "@PLI",
+        "alias": "pli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b08c5bd-34ab-4fa3-9a43-22cdeaf64e56",
+    "data": [
+      {
+        "text": "Why should I ",
+        "userDefined": false
+      },
+      {
+        "text": "participate",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "PLI",
+        "meta": "@PLI",
+        "alias": "pli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27b6689e-ff19-42b5-9865-67f80b11513d",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": true
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PLI",
+        "meta": "@PLI",
+        "alias": "pli",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e43d5ebc-3d56-4085-8c56-de68feaad798",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "being",
+        "userDefined": false
+      },
+      {
+        "text": " a part of ",
+        "userDefined": false
+      },
+      {
+        "text": "PLI",
+        "meta": "@PLI",
+        "alias": "pli",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

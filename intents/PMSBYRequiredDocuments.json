@@ -1,0 +1,88 @@
+{
+  "id": "af1c3fc0-1f2f-4758-b952-db59a7d09ea9",
+  "name": "PMSBYRequiredDocuments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a5516569-0add-4b4a-8d28-6ab23da0a08f",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cd619885-c081-4635-bbb4-e8837cbb76ac",
+          "name": "requireddocuments",
+          "required": false,
+          "dataType": "@RequiredDocuments",
+          "value": "$requireddocuments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "613a1fed-17ec-4480-8be1-1bdc00f2acb6",
+          "name": "pmsby",
+          "required": false,
+          "dataType": "@PMSBY",
+          "value": "$pmsby",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The application form is to be duly filled out. The documents to be produced include any Id Proof, Aadhaar card, Contact information, and the Nominee details."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The only document that has to be submitted along with the application form is the Aadhaar Card copy if the Aadhaar is not linked to your savings bank account."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

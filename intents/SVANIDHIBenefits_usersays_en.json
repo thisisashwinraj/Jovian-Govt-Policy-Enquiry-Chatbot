@@ -1,0 +1,240 @@
+[
+  {
+    "id": "01cfc417-71ff-429c-81ea-fc02f60f40da",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered under ",
+        "userDefined": false
+      },
+      {
+        "text": "SVANIDHI",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6da726b9-a1d1-4fed-ae81-b0b7b18c2cc9",
+    "data": [
+      {
+        "text": "Prime Minister Street Vendor\u0027s AtmaNirbhar Nidhi",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "891af801-1676-428c-8953-6aaa8a32484c",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Prime Minister Street Vendor\u0027s AtmaNirbhar Nidhi",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dd127c2-a38b-40e0-8623-bf6a5c6995be",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Prime Minister Street Vendor\u0027s AtmaNirbhar Nidhi",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec9a1e47-6879-445e-9624-3665821bffc9",
+    "data": [
+      {
+        "text": "Why should I open a ",
+        "userDefined": false
+      },
+      {
+        "text": "SVANIDHI",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d13bb545-4061-4fa4-82ca-ed44ac843479",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "SVANIDHI",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c820af1-2f8c-4ac1-93ee-26709568e9a7",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Prime Minister Street Vendor\u0027s AtmaNirbhar Nidhi",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5586d8f1-ef65-4917-bff8-56e6044844f8",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "being",
+        "userDefined": false
+      },
+      {
+        "text": " a part of ",
+        "userDefined": false
+      },
+      {
+        "text": "SVANIDHI",
+        "meta": "@SVANIDHI",
+        "alias": "svanidhi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

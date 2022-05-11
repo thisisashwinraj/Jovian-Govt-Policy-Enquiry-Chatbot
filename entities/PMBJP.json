@@ -1,0 +1,9 @@
+{
+  "id": "a31e4b4b-95cf-4871-aba4-0a4f3591c805",
+  "name": "PMBJP",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

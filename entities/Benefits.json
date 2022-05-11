@@ -1,0 +1,9 @@
+{
+  "id": "afb7474e-2761-45e6-b1b6-5a9c13d76100",
+  "name": "Benefits",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "bfca9d23-c603-4b3e-9a5d-415c2cacf257",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered under ",
+        "userDefined": false
+      },
+      {
+        "text": "RGM",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cf1c216-6d4c-4f24-8395-910f9c4e519a",
+    "data": [
+      {
+        "text": "Rashtriya Gokul Mission",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "816287d0-637a-4653-8cb6-7a4fc5f3766a",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Rashtriya Gokul Mission",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f38c9f4-dcde-482a-9e67-3583f6b3845a",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Rashtriya Gokul Mission",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e90d3454-97c9-4d8d-9776-28f92d103981",
+    "data": [
+      {
+        "text": "Why should I open a ",
+        "userDefined": false
+      },
+      {
+        "text": "RGM",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53400fff-03b9-4122-aea6-fe45d8ec31ad",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "RGM",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "912dafd7-1efd-407b-bb2e-e1b772885ca4",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Rashtriya Gokul Mission",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0475b5d-98da-40de-84cc-2304315088eb",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening an account under ",
+        "userDefined": false
+      },
+      {
+        "text": "RGM",
+        "meta": "@RGM",
+        "alias": "rgm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

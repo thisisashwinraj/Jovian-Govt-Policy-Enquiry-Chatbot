@@ -1,0 +1,76 @@
+{
+  "id": "e76ce75a-eae1-471d-bcb1-e00fff8fb57d",
+  "name": "DIAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e545e43-393e-46f7-ab87-0a2e3ec70dc0",
+          "name": "di",
+          "required": false,
+          "dataType": "@DI",
+          "value": "$di",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Digital India initiative? Choose from the options below",
+          "replies": [
+            "DI Eligibility",
+            "DI Documents",
+            "DI Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Digital India campaign launched by the Government of India ensures that the government services are electronically available to every citizen."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is achieved by strengthening online infrastructure and improving internet connectivity in rural areas to accelerate digital literacy and thereby digitally empower India in Technology."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

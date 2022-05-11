@@ -1,0 +1,9 @@
+{
+  "id": "c078bd46-c22d-4b53-bdcb-3e5e00872b5f",
+  "name": "PolicyForHealth",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

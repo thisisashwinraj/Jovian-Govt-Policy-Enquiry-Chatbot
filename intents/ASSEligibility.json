@@ -1,0 +1,64 @@
+{
+  "id": "6d458df4-fb1b-4ce2-b217-f5a3ac22dcc3",
+  "name": "ASSEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d2074e4-1c5c-4b4e-8637-9aa18fd10ee2",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "724f979d-fb76-4964-805c-435f06184336",
+          "name": "ass",
+          "required": false,
+          "dataType": "@ASS",
+          "value": "$ass",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Any Cooperative Society registered under any State/ Multi-State Cooperative Societies Act in the country, with a suitable provision in the bye-laws to provide hospital/healthcare/health-education related services, shall be eligible for the financial assistance subject to fulfillment of guidelines under the Ayushman Sahakar Scheme."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

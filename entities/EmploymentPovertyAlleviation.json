@@ -1,0 +1,9 @@
+{
+  "id": "924acef6-0a04-4166-a559-7047b8029e85",
+  "name": "EmploymentPovertyAlleviation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

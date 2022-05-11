@@ -1,0 +1,66 @@
+{
+  "id": "9cac8d9e-3c44-4f1e-b7d7-ccadd9d81844",
+  "name": "SATATAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ba11a4e0-7f6c-40b6-94e4-e5a64dc75325",
+          "name": "satat",
+          "required": false,
+          "dataType": "@SATAT",
+          "value": "$satat",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Sustainable Alternative Towards Affordable Transportation? Choose from the options below",
+          "replies": [
+            "SATAT Eligibility",
+            "SATAT Documents",
+            "SATAT Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sustainable Alternative Towards Affordable Transportation (SATAT) is a scheme aimed at establishing compressed bio-gas production plants and supplying it in the market for use as automotive fuels by inviting expression of Interest from potential entrepreneurs."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

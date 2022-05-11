@@ -1,0 +1,84 @@
+{
+  "id": "44075b82-b83a-455b-b23d-a269a73c20b8",
+  "name": "MKBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d0f7992f-0c62-4692-8d8a-52e47229e778",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "30ba8460-5dd3-4f5a-8b78-264fedc53c7f",
+          "name": "mk",
+          "required": false,
+          "dataType": "@MK",
+          "value": "$mk",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mission Karmayogi will assist in transforming the rule-based to role-based HR management so as to allocate duties to the civil servants based on their competencies."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme will bring uniformity in the training standards throughout the nation. It will also help in moulding future-ready civil servants with the right skills, competence and knowledge who are relevant considering the changing political landscape of India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The mission gives special priority to ‘on-site learning’ to complement ‘off-site’ learning. Through online platform iGOT-Karmayogi, specially designed courses can be opted to earn from global best practices rooted in “Indian ethos”."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

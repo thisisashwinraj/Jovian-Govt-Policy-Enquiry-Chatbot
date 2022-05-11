@@ -1,0 +1,94 @@
+{
+  "id": "665c6cca-a470-4656-9c7d-5fcea7e97ac3",
+  "name": "PMFMEEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "682124ae-0cb0-4195-8ad5-acf8f4b61796",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e20ffc49-89a3-4fee-a502-0b65d70f3e3e",
+          "name": "pmfme",
+          "required": false,
+          "dataType": "@PMFME",
+          "value": "$pmfme",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Eligibility criteria for Individual micro food processing units: Individual / Partnership Firm with ownership rights of the enterprise that is verified by the Resource Person are eligible for the scheme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To avail of the benefit, the entrepreneur should be above 18 years of age and possess at least 8th standard educational qualification. Only a single person from one family is eligible for obtaining financial assistance under the scheme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For FPOs/ SHGs/ Producer Cooperatives to avail of the scheme benefits, the entity should be engaged in the processing of ODOP produce for at least three years. They should have a minimum turnover of Rs.1 crore and the amount of the project proposed should not be larger than the present turnover."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "They also should have sufficient internal resources to meet 10% of the project cost and margin money for working capital."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

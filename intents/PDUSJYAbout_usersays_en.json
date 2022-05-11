@@ -1,0 +1,182 @@
+[
+  {
+    "id": "a1070ac2-8964-45be-8f3e-b9c3350dbe0e",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pandit Deendayal Upadhyay Shramev Jayate Yojana",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8b0f874-3897-452b-895c-eb088d6964bb",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pandit Deendayal Upadhyay Shramev Jayate Yojana",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78f9efff-47e8-443b-944e-92a999c78cb9",
+    "data": [
+      {
+        "text": "What do you know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PDUSJY",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe10b3cd-5130-4df3-9bf9-442a5058fd6a",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PDUSJY",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d97b27ff-6e21-4993-884a-270b425ececb",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pandit Deendayal Upadhyay Shramev Jayate Yojana",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32008fd1-515d-4e02-afe9-d089945924e1",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pandit Deendayal Upadhyay Shramev Jayate Yojana",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ebf9e0a-b0fd-401d-b484-57691a17c04b",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "PDUSJY",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a379883-d717-495c-8cb8-a05cc09025a8",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Pandit Deendayal Upadhyay Shramev Jayate Yojana",
+        "meta": "@PDUSJY",
+        "alias": "pdusjy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "5aaf6d06-8dfe-4d57-ae21-0658f5905244",
+  "name": "PoliciesForSkillDev",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

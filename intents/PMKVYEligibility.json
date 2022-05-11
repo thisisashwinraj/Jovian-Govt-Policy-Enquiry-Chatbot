@@ -1,0 +1,74 @@
+{
+  "id": "cdc6b559-16dc-4af6-ac63-f3d76c26f1b0",
+  "name": "PMKVYEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b9e5e0b0-9bdf-4162-b79f-a10403e2d03b",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9e6b7425-145b-45d1-9e98-c1599cb67502",
+          "name": "pmkvy",
+          "required": false,
+          "dataType": "@PMKVY",
+          "value": "$pmkvy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To be eligible under Pradhan Mantri Kaushal Vikas Yojana the applicant should be an Indian national with a valid Identity proof such as a Voter’s ID  card, Aadhaar card or the bank passbook."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Furthermore, the applicant should be an unemployed youth or a dropout from school or college halfway through the academic tenure."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

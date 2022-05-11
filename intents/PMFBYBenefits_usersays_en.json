@@ -1,0 +1,232 @@
+[
+  {
+    "id": "75203b98-efd2-4af4-9672-9540ac7b653e",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered under ",
+        "userDefined": false
+      },
+      {
+        "text": "PMFBY",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fcfb9ee-5365-4f07-8481-ceed74f28411",
+    "data": [
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "026dcb50-b6d4-4a19-8dca-4dfb9f98fc0a",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd18e49c-828a-4a10-a1ab-b286bd5552f6",
+    "data": [
+      {
+        "text": "Why should I open a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMFBY",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": true
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "447823a4-a0d5-40d6-8544-65b770f52ce6",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f712f0e7-ef51-4ad7-abc8-909b999e6473",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "PMFBY",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc51a8d7-2539-4460-b1da-537e4463e850",
+    "data": [
+      {
+        "text": "What are the  ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07e37633-8bec-40df-a85b-beb02904bafd",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening an account under ",
+        "userDefined": false
+      },
+      {
+        "text": "PMFBY",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

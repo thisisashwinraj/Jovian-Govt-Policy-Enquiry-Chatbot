@@ -1,0 +1,91 @@
+{
+  "id": "175dce64-97cd-49a4-bccc-85301170e50d",
+  "name": "PolicyHealth",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9dae57b9-b16e-43b6-a0d4-2082643e9042",
+          "name": "policyforhealth",
+          "required": false,
+          "dataType": "@PolicyForHealth",
+          "value": "$policyforhealth",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "03920e8d-ccb2-459c-b452-a1afbbac90d0",
+          "name": "policyforhealth1",
+          "required": false,
+          "dataType": "@PolicyForHealth",
+          "value": "$policyforhealth1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options.",
+          "replies": [
+            "PMBJP",
+            "Ayushman Sahakar",
+            "MS",
+            "MCOVIDS"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Various health policies and schemes are offered to millions of Indians to afford quality medical treatments and procedures when the need arises."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of these include Pradhan Mantri Bhartiya Janaushadhi Pariyojana, Ayushman Sahakar Scheme, Mission Sagar and  Mission COVID Suraksha"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

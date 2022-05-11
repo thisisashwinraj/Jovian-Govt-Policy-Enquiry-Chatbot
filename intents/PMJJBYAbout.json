@@ -1,0 +1,76 @@
+{
+  "id": "f490217e-62eb-4ffd-b760-aceb1d398077",
+  "name": "PMJJBYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9b5ce580-e31b-43fe-a97c-f40f2342cc8f",
+          "name": "pmjjby",
+          "required": false,
+          "dataType": "@PMJJBY",
+          "value": "$pmjjby",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Jan Dhan Yojana? Choose from the options below",
+          "replies": [
+            "PMJJBY Eligibility",
+            "PMJJBY Documents",
+            "PMJJBY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Jeevan Jyoti Bima Yojana is a renewable insurance plan which was launched in the year 2015 for all those with a savings bank account."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme provides an annual coverage of Rs.2 lakh to those who have signed up for this particular scheme."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

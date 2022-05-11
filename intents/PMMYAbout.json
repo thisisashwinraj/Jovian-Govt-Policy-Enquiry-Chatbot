@@ -1,0 +1,76 @@
+{
+  "id": "18381ac4-4858-42a2-bb77-e7de62c2b4f3",
+  "name": "PMMYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "957db5df-e5e6-4a89-b325-e60f0fe82d88",
+          "name": "pmmy",
+          "required": false,
+          "dataType": "@PMMY",
+          "value": "$pmmy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Mudra Yojana? Choose from the options below",
+          "replies": [
+            "PMMY Eligibility",
+            "PMMY Documents",
+            "PMMY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Mudra Yojana was launched in 2015 to help small scale businesses expand and attain success."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Companies from both profit and non-profit sector can avail a loan of up to Rs.10 lakh to kickstart their business."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

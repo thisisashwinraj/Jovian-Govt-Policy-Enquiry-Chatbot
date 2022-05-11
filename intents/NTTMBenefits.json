@@ -1,0 +1,74 @@
+{
+  "id": "593410f4-0487-44f8-b039-7151fe378de5",
+  "name": "NTTMBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "96b1c82d-432a-4ed3-834d-b35565aef094",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "63b8a63a-b7b9-448b-ba28-d10274d0d2b8",
+          "name": "nttm",
+          "required": false,
+          "dataType": "@NTTM",
+          "value": "$nttm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "NTTM will assist in the development of manufacturing and export activities in India. It can also help in improving the costs of the economy through the usage of textiles in dairy, poultry, agriculture, Swatch Bharat mission, promotion of water and soil conservation, improve agricultural productivity and assure a better income for the farmers."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Usage of geotextiles in highways, railways, and ports will result in robust infrastructure, a higher life cycle, and lower maintenance costs of the infrastructure assets."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

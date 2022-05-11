@@ -1,0 +1,194 @@
+[
+  {
+    "id": "9294f30b-012f-4409-862c-676f66a2bed3",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Suraksha Bima Yojana",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dacba297-9763-42f7-81d1-c78ee0034c5f",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Suraksha Bima Yojana",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4fe42c2-1bac-4738-b9f4-c45caa9ee096",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Suraksha Bima Yojana",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9588abd-ff31-4e72-aef8-2c8609d2bb53",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Suraksha Bima Yojana",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67e14b9a-08bc-4f1c-854c-3cbeee435135",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Suraksha Bima Yojana",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": false
+      },
+      {
+        "text": " schemes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2caea82-2960-43ce-b46f-fa9c2e710096",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMSBY",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16fd8dd9-b053-4054-85e1-5bec40217d06",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Suraksha Bima Yojana",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df4d3c54-33f4-495b-a622-86ef59602949",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "PM Suraksha Bima Yojana",
+        "meta": "@PMSBY",
+        "alias": "pmsby",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

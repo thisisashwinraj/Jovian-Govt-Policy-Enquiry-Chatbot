@@ -1,0 +1,170 @@
+[
+  {
+    "id": "c39c3fe6-5b50-4ef6-b2c9-50d922cb1edb",
+    "data": [
+      {
+        "text": "What are some policies concerning ",
+        "userDefined": false
+      },
+      {
+        "text": "digitalization of India",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72cd0d34-ad45-4d30-8b1f-1c99f3934d1f",
+    "data": [
+      {
+        "text": "Policies for ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "def7fcd8-92c5-4fa7-b22a-6edfc7ebaf9b",
+    "data": [
+      {
+        "text": "Tell",
+        "meta": "@HealthAndSanitation",
+        "alias": "healthandsanitation",
+        "userDefined": false
+      },
+      {
+        "text": " me about  some  policies concerning e-",
+        "userDefined": false
+      },
+      {
+        "text": "governance",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b7cec40-1e97-4929-8662-ce858f7c89ed",
+    "data": [
+      {
+        "text": "Under what schemes are proper ",
+        "userDefined": false
+      },
+      {
+        "text": "governance",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": false
+      },
+      {
+        "text": " ensured",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab8b8773-b51e-43e8-ba07-c8b6c193cda4",
+    "data": [
+      {
+        "text": "Schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "Governance",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5392136-fc08-4046-853f-a1b68ed79a49",
+    "data": [
+      {
+        "text": "Policies for ",
+        "userDefined": false
+      },
+      {
+        "text": "Governance",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1454141b-edc2-4f83-addf-e365c64510c8",
+    "data": [
+      {
+        "text": "Tell",
+        "meta": "@HealthAndSanitation",
+        "alias": "healthandsanitation",
+        "userDefined": false
+      },
+      {
+        "text": " me about some policies that helps in effective ",
+        "userDefined": false
+      },
+      {
+        "text": "administration",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "349594c7-6a07-4218-9fe8-6f872b2b4140",
+    "data": [
+      {
+        "text": "What are some schemes for effective ",
+        "userDefined": false
+      },
+      {
+        "text": "governance",
+        "meta": "@PoliciesForGovernance",
+        "alias": "policiesforgovernance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

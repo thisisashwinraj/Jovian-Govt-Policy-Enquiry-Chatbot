@@ -1,0 +1,66 @@
+{
+  "id": "7d4b4896-448c-4084-96dc-057d38e10832",
+  "name": "MCOVIDSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1a951d14-bc4a-4d1d-9a65-0b5b7a9272bf",
+          "name": "mcovids",
+          "required": false,
+          "dataType": "@MCOVIDS",
+          "value": "$mcovids",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Mission COVID Suraksha? Choose from the options below",
+          "replies": [
+            "MCOVIDS Eligibility",
+            "MCOVIDS Documents",
+            "MCOVIDS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mission COVID Suraksha is a development program for Indian candidates and researchers working on the COVID-19 vaccine wherein the Government would facilitate the clinical development, manufacturing, and licensing of Indian vaccines to constrain the virus attack."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,98 @@
+{
+  "id": "68c9dee3-abfd-401d-a97e-d2e3151ecc0a",
+  "name": "SVANIDHIRequiredDocuments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3247003-f17b-40c6-9d8d-e2270596beae",
+          "name": "requireddocuments",
+          "required": false,
+          "dataType": "@RequiredDocuments",
+          "value": "$requireddocuments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "080a7909-32bf-42aa-99fb-6cbc00bc5a2e",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "45e3d881-aaf1-414a-aa6f-2b4a4466c7a5",
+          "name": "svanidhi",
+          "required": false,
+          "dataType": "@SVANIDHI",
+          "value": "$svanidhi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Eligible vendors will be identified based on the possession of a Certificate of Vending/Identity Card issued by Urban Local Bodies (ULBs), identification in the survey but not in possession of a Certificate of Vending/Identity Card or possession of a Letter of Recommendation by Urban Local Body (ULB)/Town Vending Committee (TVC)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If the vendor was left out of the survey then they’ll have to produce documents pertaining to past loans which have been taken from other financial institutions, details of membership offered by organizations such as the NASVI, NHF, or SEWA or any other document proving that the applicant is a vendor."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Further, the vendors also need to submit KYC documents like Aadhaar Card /A Voter’s Identity Card /A Driving Licence / A MNREGA Card and a PAN Card"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

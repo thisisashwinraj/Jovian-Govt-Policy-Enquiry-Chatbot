@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1e989b5c-8892-4167-9c7d-0d678338f172",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the schemes for planning my ",
+        "userDefined": false
+      },
+      {
+        "text": "finance",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd6c8856-c04f-422e-9c46-ed499c803b23",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "banking",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6fd93f6-7a2f-4b20-93ac-067574e7eee1",
+    "data": [
+      {
+        "text": "What are some ",
+        "userDefined": false
+      },
+      {
+        "text": "finance policies",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8464e23e-980a-4421-8931-77ebc0adda8e",
+    "data": [
+      {
+        "text": "Under which scheme can I ",
+        "userDefined": false
+      },
+      {
+        "text": "plan",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "finance",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "banking",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87ab1977-be17-4e62-a023-49d9a7ff18d4",
+    "data": [
+      {
+        "text": "What are some government policies related to ",
+        "userDefined": false
+      },
+      {
+        "text": "finance",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "banking",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "806a7601-098b-4dcc-adea-a4f0307afcbb",
+    "data": [
+      {
+        "text": "What are some policies related to ",
+        "userDefined": false
+      },
+      {
+        "text": "finance",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a6884a-56cb-44b5-89f2-015c134561c2",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about some policies for ",
+        "userDefined": false
+      },
+      {
+        "text": "banking",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da764fe-1b62-4683-8286-592770094aa8",
+    "data": [
+      {
+        "text": "What are some government-backed schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "banking",
+        "meta": "@PoliciesForBanking",
+        "alias": "policiesforbanking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

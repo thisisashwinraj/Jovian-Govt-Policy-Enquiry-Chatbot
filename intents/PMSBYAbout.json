@@ -1,0 +1,66 @@
+{
+  "id": "c779ec17-d55e-47ee-ab57-3fa91dd0322c",
+  "name": "PMSBYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8d0928b8-fffb-4014-b638-11499bc6b773",
+          "name": "pmsby",
+          "required": false,
+          "dataType": "@PMSBY",
+          "value": "$pmsby",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Pradhan Mantri Suraksha Bima Yojana? Choose from the options below",
+          "replies": [
+            "PMSBY Eligibility",
+            "PMSBY Documents",
+            "PMSBY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Pradhan Mantri Suraksha Bima Yojana is a government-backed accident insurance scheme that covers accidental death, permanent disability, and partial disablement."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

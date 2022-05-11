@@ -1,0 +1,74 @@
+{
+  "id": "703706b0-67d9-49e7-9415-3c2eab9ff778",
+  "name": "PMGKYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b400f3a-4305-4236-8988-bc5f39e21ed0",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "de61ef6e-0189-492f-8f9d-491f80d57967",
+          "name": "pmgky",
+          "required": false,
+          "dataType": "@PMGKY",
+          "value": "$pmgky",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "More than 81.35 crore people will be provided 5 kg free wheat/rice per person per month along with 1 kg free whole chana to each family per month."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wheat has been allocated to 6 States/UTs, - Punjab, Haryana, Rajasthan, Chandigarh, Delhi, and Gujarat and rice has been provided to the remaining States/UTs."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "98918b48-9073-4ec5-8ee4-71b7b31e283e",
+  "name": "PDUSJYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "97c68dbb-d8bc-4744-af15-0d5dfbdee2e2",
+          "name": "pdusjy",
+          "required": false,
+          "dataType": "@PDUSJY",
+          "value": "$pdusjy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Pandit Deendayal Upadhyay Shramev Jayate Yojana? Choose from the options below",
+          "replies": [
+            "PDUSJY Eligibility",
+            "PDUSJY Documents",
+            "PDUSJY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pandit Deendayal Upadhyay Shramev Jayate Yojana was launched as an initiative for the development of industries by extending government support for providing skill training to the workers."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It offers a unified web portal to integrate information of Labour Inspection and its enforcement, which will lead to transparency and accountability in inspections."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The five major initiatives under the scheme include: Shram Suvidha Portal, Labour Inspection Scheme, Universal Account Number, Revamped Rashtriya Swasthya Bima Yojana and Apprentice Protsahan Yojana."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

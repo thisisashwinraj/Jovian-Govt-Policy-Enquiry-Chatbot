@@ -1,0 +1,9 @@
+{
+  "id": "2fe035b4-8ad8-479b-be76-ba9c6c62864a",
+  "name": "PoliciesForBusiness",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

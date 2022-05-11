@@ -1,0 +1,86 @@
+{
+  "id": "b9ffb65e-9d71-4a72-a7ac-a47ddf27e7aa",
+  "name": "PMAASHAAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11f35f23-08f8-4f5e-8e64-a847fc06bdd1",
+          "name": "pmaasha",
+          "required": false,
+          "dataType": "@PMAASHA",
+          "value": "$pmaasha",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Annadata Aay Sanrakshan Abhiyan? Choose from the options below",
+          "replies": [
+            "PMAASHA Eligibility",
+            "PMAASHA Documents",
+            "PMAASHA Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Annadata Aay SanraksHan Abhiyan is an umbrella scheme launched by the Government of India for providing remunerative prices to farmers for their produce by making sure that the norms of a Minimum Support Price are fulfilled."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The increase in the MSP can benefit the farmers by strengthening the procurement mechanism in coordination with the respective state governments."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "PM AASHA includes a Price Support Scheme (PSS) for the procurement of pulses, oilseeds, a Price Deficiency Payment Scheme (PDPS) for solving the disparity between the MSP and selling price of oilseeds, and a Pilot of Private Procurement \u0026 Stockist Scheme (PPPS) to carry out the scheme on a pilot basis in selected APMCs after collaborating from the private sector."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

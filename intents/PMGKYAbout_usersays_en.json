@@ -1,0 +1,178 @@
+[
+  {
+    "id": "bf1a1074-12eb-4305-8c45-cb667f1f6a74",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Garib Kalyan Yojana",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bab0ccbe-3921-4a88-a3f2-e454c807a15e",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Garib Kalyan Yojana",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fcca513f-f940-4c87-a7d0-d2c1dfdfbbc2",
+    "data": [
+      {
+        "text": "Tell me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Garib Kalyan Yojana",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e35bf1f-def8-4510-8835-c9bdc7542601",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PM Garib Kalyan Yojana",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7c15a4e-36b7-47b8-b9b4-0baa393152da",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Garib Kalyan Yojana",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": false
+      },
+      {
+        "text": " schemes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee0f36d0-6705-4d26-ba18-adb4ee3ee272",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMGKY",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0042fe32-31a5-4972-a165-4b63e70a21db",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Garib Kalyan Yojana",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da0a9f41-d4ee-4fa6-a3d4-0ace12b92037",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Garib Kalyan Yojana",
+        "meta": "@PMGKY",
+        "alias": "pmgky",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

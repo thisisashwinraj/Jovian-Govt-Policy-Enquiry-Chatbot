@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1b80aac9-2626-470f-9e70-55b5ddfa0da8",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "740457df-9c39-4d20-85e2-0ab7e0cf109f",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6eb8b76-fbdb-4322-b338-d87858520a7e",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "DI",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      },
+      {
+        "text": " campaign",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42961d57-e30c-42b5-85ce-014ce1a5af76",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      },
+      {
+        "text": " campaign",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f94b1778-f71c-4bdd-a38f-c6690c19520a",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee7a1cec-1cfe-4a87-8c6d-1d4d760a91af",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f02229ca-e3db-4793-b928-2b9afe91087d",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d0f7a09-962f-4a0b-a580-4aa36b1e7eac",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Digital India",
+        "meta": "@DI",
+        "alias": "di",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

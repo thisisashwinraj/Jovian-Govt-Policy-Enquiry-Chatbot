@@ -1,0 +1,76 @@
+{
+  "id": "906938f0-0817-4bbe-8b0d-07a7143ec4fb",
+  "name": "PLIAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "04ec2b62-5cc9-42a5-b0f7-8e671e9b3688",
+          "name": "pli",
+          "required": false,
+          "dataType": "@PLI",
+          "value": "$pli",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Production Linked Incentive Scheme? Choose from the options below",
+          "replies": [
+            "PLI Eligibility",
+            "PLI Documents",
+            "PLI Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Production Linked Incentive or PLI scheme is an initiative that seeks to give companies incentives on incremental sales from products manufactured in domestic units. The scheme invites foreign enterprises to set up units in India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It also aims to encourage local companies to set up or develop existing manufacturing units and generate more job opportunities and reduce the country’s dependency on foreign imports"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

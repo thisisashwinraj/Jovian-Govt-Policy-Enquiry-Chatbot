@@ -1,0 +1,186 @@
+[
+  {
+    "id": "e73f5344-88c7-49aa-b29e-7e7152c9b6f7",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "National Technical Textiles Mission",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03b7462b-b97a-4da0-8d1b-85af15a00cf7",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "National Technical Textiles Mission",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b32bdc3-1f49-406a-9236-f00d52df89f9",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "NTTM",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "069f4c2b-1929-48ee-b866-b53babf0c59e",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "NTTM",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ab4b13b-243a-4254-924f-bdbb16f69188",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "National Technical Textiles Mission",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a61d2df0-64ea-41dd-8f42-fe5be176c890",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "National Technical Textiles Mission",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6295b237-9b67-4962-9279-618011c477a2",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "NTTM",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1fa3706-6ffa-4bea-a2ef-1cfeb7cffb19",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "National Technical Textiles Mission",
+        "meta": "@NTTM",
+        "alias": "nttm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

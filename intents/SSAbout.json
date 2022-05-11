@@ -1,0 +1,76 @@
+{
+  "id": "68d08a45-637f-44ae-bd2c-ee6e1e3f2f45",
+  "name": "SSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af5a644e-5e10-445c-9b9f-6ed0cca77c75",
+          "name": "ss",
+          "required": false,
+          "dataType": "@SS",
+          "value": "$ss",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Samarth Scheme? Choose from the options below",
+          "replies": [
+            "SS Eligibility",
+            "SS Documents",
+            "SS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Samarth Scheme was launched as a Scheme for Capacity Building in the Textile Sectors, to transform the unskilled labour force into a skilled one and engage them in different sectors like knitting, processing, garment and other unorganized sectors, including handloom, carpet, jute, silk etc."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It targets to train 10 lakh youth within a period of three years (2017-2018 and 2019-2020)."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "1edfa563-160c-4c9a-ad3b-91cf61ae3682",
+  "name": "PolicyFarmers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9d5c2c11-b572-4a57-95fd-2bd8ebe380f6",
+          "name": "policiesforfarmers",
+          "required": false,
+          "dataType": "@PoliciesForFarmers",
+          "value": "$policiesforfarmers",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options.",
+          "replies": [
+            "PMKSY",
+            "RGM",
+            "PMFBY",
+            "KVP"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To promote uniformity in agriculture market,  the  government of India has  launched several  schemes for assisting farmers and other agriworkers."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of the most recent schemes announced for helping the farmer population include Pradhan Mantri Krishi Sinchai Yojana, Rashtriya Gokul Mission, Pradhan Mantri Fasal Bima Yojana, and Kisan Vikas Patra."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

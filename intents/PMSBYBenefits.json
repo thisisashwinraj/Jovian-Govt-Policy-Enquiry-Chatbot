@@ -1,0 +1,74 @@
+{
+  "id": "2b1ae5ce-e26d-49a0-a8f5-47aaed0a059b",
+  "name": "PMSBYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "42a3e1fe-7804-43c4-85f4-4f7128931534",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "20ace699-3f5a-404a-b248-ff873edd5537",
+          "name": "pmsby",
+          "required": false,
+          "dataType": "@PMSBY",
+          "value": "$pmsby",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If an accident causes the insured\u0027s death Rs.2 lakh is paid to the nominee. If the accident leads to irrecoverable loss of use of both hands, feet, or eyes then Rs.2 lakh is paid."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "However, If the accident causes irrecoverable and total loss of sight of one eye and loss of use of one hand or foot Rs.1 lakh is paid."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

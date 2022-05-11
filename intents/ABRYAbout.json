@@ -1,0 +1,76 @@
+{
+  "id": "ef5270da-e120-4874-a83d-4f78ddef5146",
+  "name": "ABRYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "195ee3e5-95da-4570-ae44-b3655c841987",
+          "name": "abry",
+          "required": false,
+          "dataType": "@ABRY",
+          "value": "$abry",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Atmanirbhar Bharat Rozgar Yojana? Choose from the options below",
+          "replies": [
+            "ABRY Eligibility",
+            "ABRY Documents",
+            "ABRY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Atmanirbhar Bharat is a mission popularised by the Government of India in relation to the economic vision and economic development in the country,  thus making India self-reliant."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It is focused on 5 components – Economy, Infrastructure, Systems, Vibrant Demography, and Demand."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "07a2d5a4-5e30-4e94-ae59-b02b03b9e621",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c78fd665-5132-4b5d-8548-ae0896ec27e4",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Jeevan Jyoti Bima Yojana",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94b27a9c-748e-4c8e-9505-b2af408b55fe",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d66d95a2-e269-4b82-8a82-0daaed9c9f8b",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c22c600-e9f1-4aac-96ff-cda04cfcab0f",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      },
+      {
+        "text": " schemes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a9c4bfc-b4b4-4808-858e-d349e9ffeff8",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMJJBY",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad58aaef-7962-4336-9bea-512fd398b99d",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa685d01-330e-4a70-a8a3-e4084e7268f5",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "PM Jeevan Jyoti Bima Yojana",
+        "meta": "@PMJJBY",
+        "alias": "pmjjby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

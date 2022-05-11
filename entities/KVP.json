@@ -1,0 +1,9 @@
+{
+  "id": "bff94069-84cb-482b-8f78-11f25ea1bdae",
+  "name": "KVP",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

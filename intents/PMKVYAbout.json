@@ -1,0 +1,76 @@
+{
+  "id": "bc7cf424-7636-45f1-aa78-e144286d48a9",
+  "name": "PMKVYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bc7b668e-8a5b-4571-832a-be092e9cb8b8",
+          "name": "pmkvy",
+          "required": false,
+          "dataType": "@PMKVY",
+          "value": "$pmkvy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Kaushal Vikas Yojana? Choose from the options below",
+          "replies": [
+            "PMKVY Eligibility",
+            "PMKVY Documents",
+            "PMKVY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Pradhan Mantri Kaushal Vikas Yojana is a flagship skill development scheme by Skill India. It is aimed at upskilling the youth by providing industry-relevant training to help them secure a better sustenance."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The assessment and training expenditure will be covered by the government and individuals with prior experience can get certified."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "48143b09-da5a-4226-a4e6-d8d5b427613e",
+  "name": "SERBPOWERAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f82e0701-ee48-46ad-84c3-205af9ac8fe7",
+          "name": "serbpower",
+          "required": false,
+          "dataType": "@SERBPOWER",
+          "value": "$serbpower",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about SERB Promoting Opportunities for Women in Exploratory Research)? Choose from the options below",
+          "replies": [
+            "SERB Eligibility",
+            "SERB Documents",
+            "SERB Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "SERB-POWER (Promoting Opportunities for Women in Exploratory Research) initiative was launched by the Science and Engineering Research Board (SERB) to alleviate the gender disparity in science and engineering research."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It was launched on an e-platform and apart from uplifting women in science, technology, and engineering roles, the scheme also aims to support women\u0027s leadership by appointing them to decision-making panels."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme comprises two components: Research Grants and Fellowship"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

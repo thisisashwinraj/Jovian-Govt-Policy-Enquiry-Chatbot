@@ -1,0 +1,19 @@
+[
+  {
+    "value": "Employment",
+    "synonyms": [
+      "Employment",
+      "Job",
+      "Occupation",
+      "Profession",
+      "Career"
+    ]
+  },
+  {
+    "value": "Poverty",
+    "synonyms": [
+      "Poverty",
+      "Poor"
+    ]
+  }
+]

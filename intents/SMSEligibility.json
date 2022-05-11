@@ -1,0 +1,74 @@
+{
+  "id": "fd097777-b742-45f0-ac36-9e77e3b7eccb",
+  "name": "SMSEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fde99e78-22dc-47cd-8152-4c0783a5cd43",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ba7bada0-ceab-44a6-b133-775ccec44b85",
+          "name": "sms",
+          "required": false,
+          "dataType": "@SMS",
+          "value": "$sms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Professional Graduates having a minimum of Bachelor’s Degree (duly recommended by the Head of the Department of the UGC / AICTE / ICAR recognized Universities / Institutions) in disciplines such as Agriculture, Dairy, Animal Husbandry, Veterinary Sciences, Fisheries, Horticulture, Textiles, Handloom, IT etc."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Professional MBA Graduates (Pursuing/Completed) in Agri-Business, Cooperative, Finance, International Trade, Forestry, Rural Development, Project Management etc, professional graduates from M.Com, MCA, Inter ICAI and Inter ICWA"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

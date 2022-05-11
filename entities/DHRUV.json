@@ -1,0 +1,9 @@
+{
+  "id": "d7bffdd9-44af-433f-b212-b388b12c8700",
+  "name": "DHRUV",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

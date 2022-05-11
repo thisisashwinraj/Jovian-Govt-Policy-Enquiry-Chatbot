@@ -1,0 +1,182 @@
+[
+  {
+    "id": "87b85a02-ef06-4055-9b77-c3114f1c5ceb",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Atmanirbhar Bharat Rozgar Yojana",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9f041df-e9aa-4048-8417-45a6c86a505e",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Atmanirbhar Bharat Rozgar Yojana",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d733af67-816c-4cc7-b0ac-9069c398ab59",
+    "data": [
+      {
+        "text": "What do you know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "ABRY",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6a7068e-a4b5-4921-ad1b-88b1ff932045",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "ABRY",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ef70ccd-5181-4a76-92fd-1303f341e0d1",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Atmanirbhar Bharat Rozgar Yojana",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "035a55bd-41be-49d5-942e-e782f65f4ab5",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Atmanirbhar Bharat Rozgar Yojana",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2692e65d-9ed5-46df-af66-a465d0bc2232",
+    "data": [
+      {
+        "text": "What is  ",
+        "userDefined": false
+      },
+      {
+        "text": "ABRY",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13d06eab-87e2-4980-af10-82a2905a7962",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Atmanirbhar Bharat Rozgar Yojana",
+        "meta": "@ABRY",
+        "alias": "abry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "497db4c9-44b8-4ff5-879d-62429e94d1cb",
+  "name": "NTTM",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

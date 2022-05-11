@@ -1,0 +1,9 @@
+{
+  "id": "4ba6265d-622c-4829-b378-03627468c060",
+  "name": "NIRVIK",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

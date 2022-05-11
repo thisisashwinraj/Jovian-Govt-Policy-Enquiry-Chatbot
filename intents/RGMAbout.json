@@ -1,0 +1,76 @@
+{
+  "id": "5203d868-d51d-466e-afbe-13d0f27bd1de",
+  "name": "RGMAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2aea568d-f659-4f6c-95ff-f900f5dca3dd",
+          "name": "rgm",
+          "required": false,
+          "dataType": "@RGM",
+          "value": "$rgm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Rashtriya Gokul Mission? Choose from the options below",
+          "replies": [
+            "RGM Eligibility",
+            "RGM Documents",
+            "RGM Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Ministry of Agriculture \u0026 Farmer Welfare implemented Rashtriya Gokul Mission with a mission to develop the indigenous bovine breeds scientifically, enhance their productivity, and thereby milk production."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The initiative further focuses on making diary more remunerative to the rural farmers in India."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

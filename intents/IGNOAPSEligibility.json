@@ -1,0 +1,74 @@
+{
+  "id": "c7148a2f-c251-4cf8-89e5-5bcfe4f1604c",
+  "name": "IGNOAPSEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "26800308-b3ee-4084-b610-4d19451f8daf",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "58e684b4-2721-4200-affb-b1aa9c7f6b9f",
+          "name": "ignoaps",
+          "required": false,
+          "dataType": "@IGNOAPS",
+          "value": "$ignoaps",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The beneficiaries of IGNOAP scheme should be over 60 years of age or higher. They should belong to a household below the poverty line according to the stipulated criteria of the government."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The applicant should be destitute without a regular source of income or financial assistance from the family. Widows and people with multiple disabilities aged 60-79 falling in the BPL category are unfortunately not eligible for availing the benefits of the scheme."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "af0f67cd-41f3-407c-8e88-00aa08a81d45",
+  "name": "APY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

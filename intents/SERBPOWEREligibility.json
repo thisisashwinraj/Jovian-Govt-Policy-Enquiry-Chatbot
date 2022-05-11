@@ -1,0 +1,74 @@
+{
+  "id": "262faa0c-fe6a-44aa-8477-4fd7a1cd9c96",
+  "name": "SERBPOWEREligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b8dfbb7e-eee1-4fdc-9b7a-3b3d540051a5",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ef39901d-415e-4275-8c11-260a654fae36",
+          "name": "serbpower",
+          "required": false,
+          "dataType": "@SERBPOWER",
+          "value": "$serbpower",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The applicant must be an Indian citizen who holds a regular academic/research position in any recognized academic institution in the country. The terms of reference for Grants will be regulated as per the SERB-CRG guidelines."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "A woman scientist cannot hold both Power Fellowship and Power Grants at the same time. Faculties recruited through UGC-Faculty Recharge Program are also eligible to apply."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

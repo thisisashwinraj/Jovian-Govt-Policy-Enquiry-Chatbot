@@ -1,0 +1,74 @@
+{
+  "id": "ec57ebff-5075-40ca-9f7c-5b19970a3a4f",
+  "name": "SVANIDHIBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "431d312b-bc01-4011-b4ba-be25fb6c1d05",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "85b8e2a0-fca9-4ab7-8d6e-2219230e6339",
+          "name": "svanidhi",
+          "required": false,
+          "dataType": "@SVANIDHI",
+          "value": "$svanidhi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The vendors will be able to get a capital loan up to Rs. 10,000 along with incentivization of regular loan repayment by the provision of cash-back, higher loans on subsequent demands."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme also provides digital transactions through cashback incentives up to an amount of Rs. 100 per month. The vendors can avail the facility of escalation of the credit limit on timely/ early repayment of loan."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

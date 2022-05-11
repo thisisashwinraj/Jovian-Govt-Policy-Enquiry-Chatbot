@@ -1,0 +1,9 @@
+{
+  "id": "2766a69a-7e29-4a20-b30b-b8156fb053c2",
+  "name": "MK",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

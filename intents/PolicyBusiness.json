@@ -1,0 +1,91 @@
+{
+  "id": "90b20358-938d-489b-8c74-dd2fe1e7fe0e",
+  "name": "PolicyBusiness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b9a28096-d8ea-41d5-bac5-d01b5680f14d",
+          "name": "policiesforbusiness",
+          "required": false,
+          "dataType": "@PoliciesForBusiness",
+          "value": "$policiesforbusiness",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c83d2ae6-e829-4c8b-b2ab-d56107d71e50",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options",
+          "replies": [
+            "PMMY",
+            "PMFE",
+            "ABRY",
+            "CGSS"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Businesses established in various fields help the economic growth and development of the country and the Government of India has launched several schemes specifically for helping these businesses in India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of the most  noticeable schemes include Pradhan Mantri Mudra Yojana, Pradhan Mantri Formalization of Micro Food Processing Enterprises Scheme, Atmanirbhar Bharat Rozgar Yojana, and Credit Guarantee Scheme for Startups."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

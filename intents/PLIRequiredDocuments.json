@@ -1,0 +1,108 @@
+{
+  "id": "fda87554-f298-4937-a88c-34e334cf5dd0",
+  "name": "PLIRequiredDocuments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7207eb5f-3652-4b6b-b926-693f74b141d9",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f2ddb652-eb36-4e00-a938-7bf780625cda",
+          "name": "requireddocuments",
+          "required": false,
+          "dataType": "@RequiredDocuments",
+          "value": "$requireddocuments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ec519c0a-7241-4b17-8344-300cbb110c0d",
+          "name": "pli",
+          "required": false,
+          "dataType": "@PLI",
+          "value": "$pli",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The documents that need to be submitted by the applicant during the online application consist of the company registration certificate, a copy of the memorandum of association, the applicant’s CIN, articles of association’s copy, PAN details, GSTN Certificate copy, company’s profile, details of top management profile and experience, authorization Letter, and interim annual account for FY 2020-21."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Consortium agreement (IFA Annexure -5), IFA Annexure-4 board resolution, statutory auditor authorized net worth certificate, construction plan, and pert chart of the project, are also needed to be submitted."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Apart from this, clearances permits, licenses and third-party approvals, timeline to gain pending clearances, annual reports FY 2017-18 to FY 2019-2020, employment generation details, cover letter, details on benefits, and an undertaking for no pending defaults and litigation are also required."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Furthermore, the applicant should also check details under the electronic form and should upload PBG documents, documents related to capital goods import and fulfill the guidelines under AML and FEMA."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

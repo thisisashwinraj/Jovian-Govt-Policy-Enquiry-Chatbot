@@ -1,0 +1,9 @@
+{
+  "id": "461e8ab4-87f9-4f0f-ae08-be00a1c0982f",
+  "name": "PLI",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

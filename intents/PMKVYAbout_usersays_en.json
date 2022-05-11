@@ -1,0 +1,186 @@
+[
+  {
+    "id": "285cda71-3c25-4cc2-9da1-19ba076e1867",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the  ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e128c59-ca51-4d92-b64a-9293f8d56c87",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2de0a20-3b28-45e7-a80f-611823169507",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKVY",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fdbf20a-3dc9-4b7b-8c9c-43c61a55eeba",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      },
+      {
+        "text": " schemes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f6952b88-648e-4213-a9f1-e836bfc06704",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3ed0d66-d7f4-467d-ba60-71e8162a722b",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about  ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d0e528d-17a5-4197-981a-43a4c97efee9",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3b04b4b-224e-4e9e-8e14-c47e8b50dfeb",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kaushal Vikas Yojana",
+        "meta": "@PMKVY",
+        "alias": "pmkvy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

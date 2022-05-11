@@ -1,0 +1,9 @@
+{
+  "id": "399a6fdd-2de3-49d6-9057-be5a407e3d70",
+  "name": "SSA",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

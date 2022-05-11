@@ -1,0 +1,9 @@
+{
+  "id": "e16cd30a-31a1-4dfb-81bd-5aae658a6be9",
+  "name": "PoliciesForBanking",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

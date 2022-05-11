@@ -1,0 +1,60 @@
+{
+  "id": "0b5646e2-ba04-4a19-80f6-ca927d43c59b",
+  "name": "SWAMITVAAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5b5e8187-c98d-4971-8ec8-4733501cf5a9",
+          "name": "swamitva",
+          "required": false,
+          "dataType": "@SWAMITVA",
+          "value": "$swamitva",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Survey of Villages and Mapping with Improvised Technology in Village Areas(SVAMITVA) initiative is was launched to enable an integrated property validation solution for rural India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This is the first initiative wherein such large-scale efforts involving most modern drone technology is being carried out for benefitting the rural inhabitants of the country."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

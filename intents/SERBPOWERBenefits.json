@@ -1,0 +1,84 @@
+{
+  "id": "55f2b171-563c-4382-8a0d-cee2ab0f5439",
+  "name": "SERBPOWERBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9c2596d5-1416-4438-a015-7e6166e975d8",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "749fd320-d9f9-4035-b0d2-8b76c0c19ebd",
+          "name": "serbpower",
+          "required": false,
+          "dataType": "@SERBPOWER",
+          "value": "$serbpower",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "SERB POWER scheme will provide 25 to 75 Fellowships a year, worth 15000 rupees per month to each one of the selected candidates. This is in addition to the regular income."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "They will also be awarded 10 lakh rupees p.a. as a research grant and 90000 Rupees as overhead in their career. The scheme is promising to bring in more women in leadership roles within decision-making bodies."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It will empower women scientists and help to cultivate a women-friendly landscape in research and academic institutions"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

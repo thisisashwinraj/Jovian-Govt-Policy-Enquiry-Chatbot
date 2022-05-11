@@ -1,0 +1,232 @@
+[
+  {
+    "id": "cc130f6a-76ef-4059-87fa-e8c1562b81cc",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "services",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered under ",
+        "userDefined": false
+      },
+      {
+        "text": "ONORCS",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3962c851-ba09-4b7b-ac35-2f3e80ae558c",
+    "data": [
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d508d308-c091-4124-b57e-8c85463f8016",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "rewards",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "444e50a9-455b-4d5b-afcc-03ae0a1248ec",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af304a91-2e9e-4dbd-8c58-82a2149fdc08",
+    "data": [
+      {
+        "text": "Why should I ",
+        "userDefined": false
+      },
+      {
+        "text": "be",
+        "userDefined": false
+      },
+      {
+        "text": " a part of the ",
+        "userDefined": false
+      },
+      {
+        "text": "1N1R scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5b4fab0-bec2-4d96-b5f8-8f87680d55f5",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "use",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of opening a ",
+        "userDefined": false
+      },
+      {
+        "text": "ONORC scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a719286-7402-42bc-9952-74ddb7855ad9",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " offered as part of ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a23176d6-c508-4da0-b070-5a1c36ff223d",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "benefits",
+        "meta": "@Benefits",
+        "alias": "benefits",
+        "userDefined": false
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "ONORC scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

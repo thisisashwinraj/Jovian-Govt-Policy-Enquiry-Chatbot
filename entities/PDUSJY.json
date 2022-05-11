@@ -1,0 +1,9 @@
+{
+  "id": "0c178d5e-9966-4231-ba99-21e7cf6d96e1",
+  "name": "PDUSJY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ee041d9f-8ef7-4f1b-be81-2b1fbcedccde",
+  "name": "PMKSY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

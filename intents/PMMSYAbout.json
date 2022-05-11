@@ -1,0 +1,76 @@
+{
+  "id": "046fe374-c105-4a99-bca8-29c3d70799b4",
+  "name": "PMMSYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e106e86-f77a-44ff-9fee-38bf874d567f",
+          "name": "pmmsy",
+          "required": false,
+          "dataType": "@PMMSY",
+          "value": "$pmmsy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Pradhan Mantri Matsya Sampada Yojana? Choose from the options below",
+          "replies": [
+            "PMMSY Eligibility",
+            "PMMSY Documents",
+            "PMMSY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The aim of the Pradhan Mantri Matsya Sampada Yojana is to bring about Blue Revolution through the sustainable development of the fisheries sector over a term of five years (2020-2025)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The major components of the umbrella scheme are enhancement of fish production and productivity, infrastructure and post-harvest management, and fisheries management and regulatory framework."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "312d3405-a7fc-45c1-98ee-dbc0509c50c1",
+  "name": "MCOVIDS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

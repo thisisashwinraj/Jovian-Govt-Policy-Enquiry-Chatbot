@@ -1,0 +1,74 @@
+{
+  "id": "7e2dfe02-c5b0-492f-850b-860fc78225d7",
+  "name": "KVPEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3c1888c4-a22a-42f6-8aae-a6ac6c0944c6",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "267e14cd-e516-48d2-928a-12e05a649537",
+          "name": "kvp",
+          "required": false,
+          "dataType": "@KVP",
+          "value": "$kvp",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To be eligible for the Kisan Vikas Patra, the applicant must be an adult and a resident Indian. The applicant can apply for Kisan Vikas Patra in their own name or on behalf of a minor."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Trusts are eligible to invest in Kisan Vikas Patra. HUFs (Hindu Undivided Family) and NRIs are not eligible to invest in KVP."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

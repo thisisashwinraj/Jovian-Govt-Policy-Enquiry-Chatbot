@@ -1,0 +1,9 @@
+{
+  "id": "e692f514-2d58-4f93-828c-7313ab7bb5ee",
+  "name": "PoliciesForWomen",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

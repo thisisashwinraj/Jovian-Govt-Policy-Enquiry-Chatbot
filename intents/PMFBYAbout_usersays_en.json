@@ -1,0 +1,182 @@
+[
+  {
+    "id": "a9c2764b-fbee-4353-8b51-c75d33b8eb3a",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the  ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3b893a2-0d67-4bc2-938b-14f7de9050a9",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "306c51e1-ea54-427b-9513-9708ea807181",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me something about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMFBY",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a939b431-1275-440b-b2ba-8eea921282ef",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PM Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71ac8c4f-24b5-4dd2-9412-2b3083658ce5",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": true
+      },
+      {
+        "text": " schemes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fe79bab-7129-4233-abbf-6e03a65daff5",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about  ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d40212a8-5cf3-46b8-a881-e8802f4ee271",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "427d368b-71b7-4103-8aaa-8f93205cf4d2",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Fasal Bima Yojana",
+        "meta": "@PMFBY",
+        "alias": "pmfby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

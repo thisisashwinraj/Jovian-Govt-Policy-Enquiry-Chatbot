@@ -1,0 +1,76 @@
+{
+  "id": "70be4a3d-fe8f-4615-9fb6-06dcc1641278",
+  "name": "MSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "14b4947f-f187-49ea-93e5-bec2e9f63db7",
+          "name": "ms",
+          "required": false,
+          "dataType": "@MS",
+          "value": "$ms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Mission Sagar? Choose from the options below",
+          "replies": [
+            "MS Eligibility",
+            "MS Documents",
+            "MS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mission Sagar was a COVID-19 relief mission launched in May 2020 by the Government of India to provide critical aid to the Indian Ocean countries and to fulfill the aim of the SAGAR initiative for maritime cooperation."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This was followed up by Mission Sagar II in November 2020, Mission Sagar III  in December 2020 and Mission Sagar lV in March 2021."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

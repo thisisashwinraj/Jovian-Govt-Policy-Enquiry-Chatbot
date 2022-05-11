@@ -1,0 +1,84 @@
+{
+  "id": "fd46f39d-9a3d-440a-86dc-df26989ff9c2",
+  "name": "PMVVYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd813329-00ad-4771-b37d-40a31ea52ced",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bdc4067a-d769-4cd9-a6dd-de6618dd3eaa",
+          "name": "pmvvy",
+          "required": false,
+          "dataType": "@PMVVY",
+          "value": "$pmvvy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The key benefits of PMVVY include an assured constant rate of return of 7% to 9% for 10 years, alongside maturity benefits. Maturity benefit corresponds to the payment of the entire amount (including the final pension and the purchase price) after the completion of 10 years."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If in case the purchaser deceases before the completion of the policy term, then the purchase price will be paid back to the beneficiary. A surrender value of 98% will be paid if the pensioner needs a premature exit during the term of the policy under exceptional circumstances like a terminal disease of oneself or spouse."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There is also a provision for availing a loan of 75%  of the purchase price after 3 years of the policy term in cases of unprecedented emergencies."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

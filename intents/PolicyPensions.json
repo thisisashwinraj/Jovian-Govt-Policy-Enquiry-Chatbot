@@ -1,0 +1,91 @@
+{
+  "id": "b1b6e7ea-28e0-4e1a-aa80-d5201340ada4",
+  "name": "PolicyPensions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e649d951-e952-4343-ad5f-1f6cc214c910",
+          "name": "policiesforpension",
+          "required": false,
+          "dataType": "@PoliciesForPension",
+          "value": "$policiesforpension",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1cfae3b0-4ff6-41d9-870f-16266fbe5e83",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more  about these schemes? Choose from the below options.",
+          "replies": [
+            "APY",
+            "PMVVY",
+            "PMJDY",
+            "IGNOAPS"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Government of India offers several pension plans and retirement benefits for the citizens of the country."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of these policies include Atal Pension Yojana, Pradhan Mantri Vaya Vandana Yojana, Pradhan Mantri Jan Dhan Yojana, and Indira Gandhi National Old Age Pension Scheme"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

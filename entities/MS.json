@@ -1,0 +1,9 @@
+{
+  "id": "55ad6f10-b848-426c-98cc-e72e53e90d67",
+  "name": "MS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

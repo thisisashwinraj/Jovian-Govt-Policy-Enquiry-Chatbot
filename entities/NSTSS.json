@@ -1,0 +1,9 @@
+{
+  "id": "22bd8564-bb5d-4a70-84b2-c0e8a55991aa",
+  "name": "NSTSS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

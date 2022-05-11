@@ -1,0 +1,84 @@
+{
+  "id": "a2ae5225-2d89-4676-9688-73fdd9fbdccd",
+  "name": "SATATBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4d0e3a4-a659-4812-8925-e362e7270a79",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b060e965-a41c-42bb-b500-036b2599f2c4",
+          "name": "satat",
+          "required": false,
+          "dataType": "@SATAT",
+          "value": "$satat",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "SATAT scheme will aid in reducing vehicular emissions and harmful emissions from the burning of agricultural waste. The conversion of agricultural residue, cattle dung and municipal solid waste into CBG can positively help in waste management and reduction in carbon emissions and pollution."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This can be an additional source of income for the farmers and give a boost to entrepreneurship, economy, and employment in rural areas. It can also aid in cutting down the import of natural gas and crude oil."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Moreover, this can also act as a buffer during the times of crude oil/gas price fluctuations. In the long run it will be a advocate to national commitments in achieving climate change goals."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

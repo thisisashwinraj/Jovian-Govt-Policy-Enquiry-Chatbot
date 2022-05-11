@@ -1,0 +1,9 @@
+{
+  "id": "c34935a7-b4ea-44e7-b68a-a7231722505c",
+  "name": "ONORCS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

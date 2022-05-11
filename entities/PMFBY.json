@@ -1,0 +1,9 @@
+{
+  "id": "e1712238-bbbf-4311-bcf8-51271174704b",
+  "name": "PMFBY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

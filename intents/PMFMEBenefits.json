@@ -1,0 +1,74 @@
+{
+  "id": "9dc17bba-641f-40bd-a6fd-210093369e83",
+  "name": "PMFMEBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0af1094c-4f5f-4968-9156-4d2d97f08565",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c53bc3f3-abc8-460d-9c75-36f3fc3ff067",
+          "name": "pmfme",
+          "required": false,
+          "dataType": "@PMFME",
+          "value": "$pmfme",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "PM Formalization of Micro Food Processing Enterprises Scheme will benefit approximately 8 lakh micro-enterprises via access to information, better exposure, and formalization. It will help develop small enterprises by helping them grow by increasing their competency and better integration with organized markets."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Implementing the scheme efficiently will generate 9 lakh skilled and semi-skilled jobs in India. It will also increase access to common labors like sorting, processing, packaging, storage, etc."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

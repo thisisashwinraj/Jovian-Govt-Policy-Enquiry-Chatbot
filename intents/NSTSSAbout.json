@@ -1,0 +1,66 @@
+{
+  "id": "f48826ba-30ed-47de-9d1d-a64b72257270",
+  "name": "NSTSSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f9ab17f3-e4c3-41a5-8d83-0461769f20cf",
+          "name": "nstss",
+          "required": false,
+          "dataType": "@NSTSS",
+          "value": "$nstss",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about National Sports Talent Search Scheme? Choose from the options below",
+          "replies": [
+            "NSTSS Eligibility",
+            "NSTSS Documents",
+            "NSTSS  Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The National Sports Talent Search Scheme has been devised for talent identification in the age group of 8-12 years and development of identified talented sportsperson in district, central, and national level Sports academic institutions."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

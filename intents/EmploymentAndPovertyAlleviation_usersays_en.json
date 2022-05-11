@@ -1,0 +1,162 @@
+[
+  {
+    "id": "068a8e93-4bc1-4019-96c3-fb0d3d1834b7",
+    "data": [
+      {
+        "text": "Tell me about some schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "Poverty Alleviation",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab0d416f-2fe7-4903-a199-7bb29b52e82d",
+    "data": [
+      {
+        "text": "Tell me about the schemes for ",
+        "userDefined": false
+      },
+      {
+        "text": "Employment",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56856a0d-261b-4c39-9b22-233b03b1c4da",
+    "data": [
+      {
+        "text": "Tell  me about some ",
+        "userDefined": false
+      },
+      {
+        "text": "Employment",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      },
+      {
+        "text": " Policies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cff8363-c4d1-408f-aba0-26fc9dae4180",
+    "data": [
+      {
+        "text": "Tell me about some ",
+        "userDefined": false
+      },
+      {
+        "text": "poverty alleviation",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      },
+      {
+        "text": " policies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7418be48-2f60-49ac-af1c-f3de676b590d",
+    "data": [
+      {
+        "text": "What are some policies for ",
+        "userDefined": false
+      },
+      {
+        "text": "Poverty Alleviation",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db8c1d01-1b46-4f88-86ad-39486bef00b0",
+    "data": [
+      {
+        "text": "What are some policies for ",
+        "userDefined": false
+      },
+      {
+        "text": "Employment",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e885e1b-b3da-4d76-aa1f-04f57f852854",
+    "data": [
+      {
+        "text": "Tell me about some policies for ",
+        "userDefined": false
+      },
+      {
+        "text": "Employment and Poverty Alleviation",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d9f4cbf-0f2b-444a-85ae-d901d96f8f5d",
+    "data": [
+      {
+        "text": "What are some government policies related to ",
+        "userDefined": false
+      },
+      {
+        "text": "Employment and Poverty Alleviation",
+        "meta": "@EmploymentPovertyAlleviation",
+        "alias": "EmploymentPovertyAlleviation",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

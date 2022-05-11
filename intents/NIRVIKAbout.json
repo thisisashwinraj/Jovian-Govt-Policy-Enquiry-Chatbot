@@ -1,0 +1,66 @@
+{
+  "id": "6bad2a5e-18ab-41ba-a687-2cfb32921c7d",
+  "name": "NIRVIKAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "63639ab7-8821-44e1-8dfe-a5ee42f50bc2",
+          "name": "nirvik",
+          "required": false,
+          "dataType": "@NIRVIK",
+          "value": "$nirvik",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Niryat Rin Vikas Yojana? Choose from the options below",
+          "replies": [
+            "NIRVIK Eligibility",
+            "NIRVIK Documents",
+            "NIRVIK Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Niryat Rin Vikas Yojana is a scheme launched under the Export Credit Guarantee Corporation of India (ECGC) to ease lending of loans, enhance credit availability and assure financial security to small-scale exporters and banks"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

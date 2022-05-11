@@ -1,0 +1,84 @@
+{
+  "id": "2f88fa22-3cbd-457f-94de-f0156f4a64fe",
+  "name": "NIRVIKBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d154c5f7-f00d-4bf5-ac2c-649355d121cd",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6acc24de-1b7d-40d7-96b9-5f9898e836d1",
+          "name": "nirvik",
+          "required": false,
+          "dataType": "@NIRVIK",
+          "value": "$nirvik",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The NIRVIK Scheme will help in improving the accessibility and affordability of credit for small exporters and thereby increasing the competency of Indian exports."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It will dispense with the usual red tape and similar procedural difficulties and give more priority to making it friendly for exporters. The extended insurance cover is likely to cut down the cost of credit due to factors like capital relief, better liquidity and quick settlement of claims in play."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Micro, small, and medium enterprises will be benefitted due to improvement in the ease of doing business and simplicity of Export Credit Guarantee(ECG) procedures."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

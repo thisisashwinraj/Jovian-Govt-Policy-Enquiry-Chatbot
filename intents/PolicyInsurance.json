@@ -1,0 +1,91 @@
+{
+  "id": "fbd1eeac-ed2d-48d0-861d-cba95ad405ab",
+  "name": "PolicyInsurance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1850624f-da32-45ff-9f61-0327d8a68f4a",
+          "name": "policiesforinsurance",
+          "required": false,
+          "dataType": "@PoliciesForInsurance",
+          "value": "$policiesforinsurance",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fd00022e-77d8-43ea-8fa4-5e2e42b14d21",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options.",
+          "replies": [
+            "PMJJBY",
+            "PMSBY",
+            "PMFBY",
+            "PMVVY"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are several government sponsored socially oriented insurance schemes specially designed for the welfare of the citizens."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of these schemes include Pradhan Mantri Jeevan Jyoti Bima Yojana, Pradhan Mantri Suraksha Bima Yojana, Pradhan Mantri Fasal Bima Yojana and Pradhan Mantri Vaya Vandana Yojana"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "a69d03bd-36de-4323-9cb9-d0b97774081a",
+  "name": "PMKUSUMAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f04952ec-57ed-4eef-a6a5-eacf4b195af3",
+          "name": "pmkusum",
+          "required": false,
+          "dataType": "@PMKUSUM",
+          "value": "$pmkusum",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan? Choose from the options below",
+          "replies": [
+            "PMKUSUM Eligibility",
+            "PMKUSUM Documents",
+            "PMKUSUM Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Kisan Urja Suraksha evam Utthan Mahabhiyan(PM KUSUM) Scheme was formulated to assist farmers with the installation of solar pumps and grid-connected solar and other renewable power plants in the country."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The initiative is expected to add solar and other renewable capacities of 25,750 MW by 2022 with a total central financial support of Rs. 34,422 Crore including service charges to the implementing agencies."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

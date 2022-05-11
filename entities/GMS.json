@@ -1,0 +1,9 @@
+{
+  "id": "0abe8f19-99d1-4b84-85f3-c5aba6baa823",
+  "name": "GMS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

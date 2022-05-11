@@ -1,0 +1,9 @@
+{
+  "id": "6ea644a6-5342-4a2f-b070-ea0f332a241c",
+  "name": "SMS",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2704b5e8-3044-48df-982d-7b47e098807d",
+  "name": "ASSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4867c5a-cf23-4169-ad85-df01b9612ff1",
+          "name": "ass",
+          "required": false,
+          "dataType": "@ASS",
+          "value": "$ass",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Ayushman Sahakar Scheme? Choose from the options below",
+          "replies": [
+            "ASS Eligibility",
+            "ASS Documents",
+            "ASS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayushman Sahakar Scheme was launched to assist cooperatives in the creation of healthcare infrastructure in the country. Under this scheme, NCDC would disburse term loans to prospective cooperatives to the tune of Rs.10,000 crore in the coming years."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The major focus is on the establishment and up-gradation of hospitals, modernisation, expansion and repairs of healthcare institutes and development of healthcare and education infrastructure."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

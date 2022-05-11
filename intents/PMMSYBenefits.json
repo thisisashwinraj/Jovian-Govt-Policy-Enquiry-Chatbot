@@ -1,0 +1,74 @@
+{
+  "id": "926bb56d-4bc8-4201-bbab-dfc1f69ddc68",
+  "name": "PMMSYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bda38798-9e35-47b6-91c4-2c9dfc5cb8ec",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2a0ef104-9e70-4d55-b6ba-425905d6b64b",
+          "name": "pmmsy",
+          "required": false,
+          "dataType": "@PMMSY",
+          "value": "$pmmsy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme is expected to increase in fish production to 70 million tonnes by 2024-25 and the fisheries export income to Rs 1,00,000 crore."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It also will help in reducing post-harvest losses to about 10% and also to generate additional 55 lakh direct and indirect gainful job opportunities in fisheries sector and allied activities."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

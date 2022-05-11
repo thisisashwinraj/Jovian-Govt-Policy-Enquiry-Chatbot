@@ -1,0 +1,66 @@
+{
+  "id": "7c179866-022a-4b33-a537-6df410713216",
+  "name": "PMJDYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "53062e9a-2124-43c6-b723-df171d75d406",
+          "name": "pmjdy",
+          "required": false,
+          "dataType": "@PMJDY",
+          "value": "$pmjdy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PMJan Dhan Yojana? Choose from the options below",
+          "replies": [
+            "PMJDY Eligibility",
+            "PMJDY Documents",
+            "PMJDY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Jan Dhan Yojana is a government scheme launched by the government of India to provide easy access to financial services such as Remittance, Credit, Insurance, Pension, Savings, and Deposit Accounts to the poor and needy section of the society."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

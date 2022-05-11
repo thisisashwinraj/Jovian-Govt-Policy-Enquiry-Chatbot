@@ -1,0 +1,77 @@
+{
+  "id": "286d9e70-7cc9-4a54-9158-767963cbf4d6",
+  "name": "PolicyBanking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bab27d70-d083-43e7-b5be-603caf3ffcbf",
+          "name": "policiesforbanking",
+          "required": false,
+          "dataType": "@PoliciesForBanking",
+          "value": "$policiesforbanking",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options.",
+          "replies": [
+            "PMGKY",
+            "GMS",
+            "PMJDY",
+            "KVP"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are several policies devised by the Government of India to facilitate easy banking for the citizens."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of the noticeable policies include Pradhan Mantri Garib Kalyan Yojana, Gold Monetisation Scheme, Pradhan Mantri Jan Dhan Yojana and Kisan Vikas Patra"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

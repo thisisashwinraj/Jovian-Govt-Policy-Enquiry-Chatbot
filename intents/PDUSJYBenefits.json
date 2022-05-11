@@ -1,0 +1,74 @@
+{
+  "id": "f654254b-61ce-4de0-a745-416ca66ffd4c",
+  "name": "PDUSJYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "561d5de4-fe93-4eeb-91e2-2b5ec09429a0",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f386c31e-8ef0-400f-bc6a-2e314e8ee7d8",
+          "name": "pdusjy",
+          "required": false,
+          "dataType": "@PDUSJY",
+          "value": "$pdusjy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Under the Shramev Jayate Yojana , there is an allotment of a Unique Labour Identification number for the facilitation of the online registration."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Facilitation of single harmonized form which will make it simple and easy for those filing of self-certified and simplified online returns filed by the industry. It will also reinforce timely redressal of grievances."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

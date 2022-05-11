@@ -1,0 +1,66 @@
+{
+  "id": "6c2226ba-bfd2-43c2-aade-0fc450d7a95f",
+  "name": "ONORCSAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ae8da59f-1139-44b1-9ccf-67093616a488",
+          "name": "onorcs",
+          "required": false,
+          "dataType": "@ONORCS",
+          "value": "$onorcs",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about One  Nation One Ration Card scheme? Choose from the options below",
+          "replies": [
+            "ONORCS Eligibility",
+            "ONORCS Documents",
+            "ONORCS Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "One Nation One Ration card aims to ensure all beneficiaries, especially migrant workers and families get rations (wheat, rice, and other food grains) across the nation from any Public Distribution System (PDS) shop of their own choice."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

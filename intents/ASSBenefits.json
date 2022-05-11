@@ -1,0 +1,74 @@
+{
+  "id": "d2113370-065e-4800-9ed1-81f75dbc8ed6",
+  "name": "ASSBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b7f2d89f-de2d-41ca-820b-ca76d564e30a",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "761456b1-b2fa-462c-b9af-dd95ebed3ca0",
+          "name": "ass",
+          "required": false,
+          "dataType": "@ASS",
+          "value": "$ass",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "By implementing Ayushman Sahakar Scheme, the current figures of hospitals and bed strength will increase and thereby revolutionize the way healthcare is delivered in rural areas."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "NCDC’s loan could give the needed boost to farmer\u0027s welfare activities by the Central Government. Further, the fund would also assist cooperative hospitals to take up medical/AYUSH education."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

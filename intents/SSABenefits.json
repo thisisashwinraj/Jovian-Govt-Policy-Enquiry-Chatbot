@@ -1,0 +1,84 @@
+{
+  "id": "bebfa6db-fc87-41e3-8747-0bc46d5749cf",
+  "name": "SSABenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "688c722c-5a90-4ac7-bdf4-6ac7fefc08c3",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8da120fe-2971-492f-ad7f-0ac1507068d2",
+          "name": "ssa",
+          "required": false,
+          "dataType": "@SSA",
+          "value": "$ssa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sarvya Shiksha Abhiyaan provides free and compulsory elementary education and ensures quality basic education to a large section of society."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It ensures a timely supply of textbooks and school uniforms, equal education and facilities to all children irrespective of their caste and economic status, better infrastructure with additional classrooms, hygienic toilets, and drinking water supply, and allowance of special grants for covering maintenance costs of the school."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The teachers will receive vocational courses and special coaching for improving their teaching skills as well as appraisals to support them in the best possible way."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

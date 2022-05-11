@@ -1,0 +1,76 @@
+{
+  "id": "9c960a28-5856-410a-9e97-511551b17871",
+  "name": "DHRUVAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6aca1a91-3b7e-40b6-ada5-0fbf708b5af7",
+          "name": "dhruv",
+          "required": false,
+          "dataType": "@DHRUV",
+          "value": "$dhruv",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about DHRUV - PM Innovative Learning Programme? Choose from the options below",
+          "replies": [
+            "PMILP Eligibility",
+            "PMILP Documents",
+            "PMILP Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Pradhan Mantri Innovative Learning Programme, sometime referred to as DHRUV is to identify and encourage talented children to enrich their skills and knowledge."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Under this scheme, talented children will be mentored and nurtured by renowned experts in diverse areas in centres of excellence across the country, so that they can attain their full potential."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

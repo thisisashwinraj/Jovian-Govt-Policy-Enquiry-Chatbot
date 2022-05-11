@@ -1,0 +1,9 @@
+{
+  "id": "59aa5ab4-282f-4b3b-b604-2b15e5246881",
+  "name": "ABRY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

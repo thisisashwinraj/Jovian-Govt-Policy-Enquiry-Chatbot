@@ -1,0 +1,76 @@
+{
+  "id": "cd52ce52-07e0-4453-9a48-d561f98b1058",
+  "name": "SVANIDHIAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "de5a4efb-a060-477e-b94e-e0d7e97e96e1",
+          "name": "svanidhi",
+          "required": false,
+          "dataType": "@SVANIDHI",
+          "value": "$svanidhi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Street Vendor’s AtmaNirbhar Nidhi? Choose from the options below",
+          "replies": [
+            "SVANIDHI Eligibility",
+            "SVANIDHI Documents",
+            "SVANIDHI Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Prime Minister Street Vendor’s AtmaNirbhar Nidhi was launched to provide an economic boost to the street vendors affected due to the COVID-19 pandemic by offering them micro-credit facilities so that they can revive their business again and bring it back to normalcy."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The vendors through this initiative can apply for a loan of up to Rs 10,000 for a year without pledging any collateral. PM SVANIDHI is expected to benefit over 50 lakh street vendors across the nation"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

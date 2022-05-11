@@ -1,0 +1,86 @@
+{
+  "id": "a4cb2356-0e31-49f5-a8d7-042c5537bbf7",
+  "name": "SIAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4c3b13ba-ff47-4827-8194-370d114d9861",
+          "name": "si",
+          "required": false,
+          "dataType": "@SI",
+          "value": "$si",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about the Skill India initiative? Choose from the options below",
+          "replies": [
+            "SI Eligibility",
+            "SI Documents",
+            "SI Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Skill India Mission aims to provide industry-relevant skills training to more than 40 crore youth population in the country by the year 2022."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The prime areas of focus are opportunity development for the youth of the country and the development of existing sectors that have been put under skill development and to extend to newer sectors."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Skill India is an umbrella scheme covering various sub-schemes like PMKVY, SANKALP, ISDS, NSDM, UDAAN, STAR, Polytechnic schemes and vocationalisation of education."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

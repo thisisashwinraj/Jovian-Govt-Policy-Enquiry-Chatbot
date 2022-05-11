@@ -1,0 +1,182 @@
+[
+  {
+    "id": "fd2d7b9b-a0f2-47a7-a89b-fb2eb87918c9",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aca4750e-b799-40dd-b4e8-084a0cfdd1d5",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d35dad7-2272-4fcc-b069-6da46fe40d40",
+    "data": [
+      {
+        "text": "What do you know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKUSUM",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38070462-1c02-4ac3-90b2-976015b8d812",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKUSUM",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7d968f6-6fd4-43d8-95eb-d0bbe93b135b",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96c414c9-9e5d-4cbf-aafd-084cd6568d9a",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aacf1ed1-d27d-4467-8671-1964b64fec31",
+    "data": [
+      {
+        "text": "What is  ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKUSUM",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a7334a-1f44-444d-8834-333f7ef36f65",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan",
+        "meta": "@PMKUSUM",
+        "alias": "pmkusum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

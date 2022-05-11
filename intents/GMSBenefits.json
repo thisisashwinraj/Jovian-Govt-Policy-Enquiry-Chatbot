@@ -1,0 +1,74 @@
+{
+  "id": "f31df513-626d-4ed7-bae3-c7c665d3ed9a",
+  "name": "GMSBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d816bf6a-ac2a-4f0c-8429-bf87943db4cd",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c02e404b-ab0c-427d-86f9-c4a2fb31b711",
+          "name": "gms",
+          "required": false,
+          "dataType": "@GMS",
+          "value": "$gms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Gold Monetization Scheme provides an opportunity to earn interest on the idle gold lying in the lockers and homes of individuals or organizations. The depositors can also save on locker charges currently expended for storing gold."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme provides flexibility by allowing the acceptance of gold in the form of bars, coins and jewellery. Availing the benefits of GMS and the associated tie-up with renowned refiners can help in checking the gold’s purity as well as assess the gold in their presence at the CPTC Centre"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

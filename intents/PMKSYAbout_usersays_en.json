@@ -1,0 +1,186 @@
+[
+  {
+    "id": "476ed6a5-344d-4ecb-8ee7-a79eac385f71",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03c3c899-dde2-4b04-80a4-49588fae05c5",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4728b25-f48e-4e73-844f-472062a2b4c4",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "PMKSY",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89e2501c-8d23-4d9e-929b-ff8f9ccdd4bd",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      },
+      {
+        "text": " schemes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd0fa145-7329-4c14-9862-e65c2b05eb28",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aec864e0-51b0-4f4c-b123-127305af5573",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b241702b-a0dc-4586-8ca2-205ebea17515",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21593d65-1dc4-4ff8-a1dc-c0b009837f5a",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pradhan Mantri Krishi Sinchai Yojana",
+        "meta": "@PMKSY",
+        "alias": "pmksy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

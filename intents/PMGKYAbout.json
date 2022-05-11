@@ -1,0 +1,86 @@
+{
+  "id": "b765ea95-331e-40b0-9c18-8bf6a7d462c9",
+  "name": "PMGKYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15d5367e-f0b9-4fed-9b00-f7949de96b0b",
+          "name": "pmgky",
+          "required": false,
+          "dataType": "@PMGKY",
+          "value": "$pmgky",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Garib Kalyan Yojana? Choose from the options below",
+          "replies": [
+            "PMGKY Eligibility",
+            "PMGKY Documents",
+            "PMGKY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Garib Kalyan Yojana was launched by the Ministry of Finance under the Government of India and came into effect in 2016."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It allows individuals to deposit money that has not been taxed. Under the scheme, 50% of the untaxed amount must be paid."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme for Phase VI from April-September, 2022 would entail an estimated additional food subsidy of Rs. Rs. 80,000 Crore."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

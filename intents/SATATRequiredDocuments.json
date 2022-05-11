@@ -1,0 +1,88 @@
+{
+  "id": "78a071d1-6511-40bd-8d7a-140f712765d4",
+  "name": "SATATRequiredDocuments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "57680119-e6b4-4f0c-9b1f-bc81d39ea797",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "766e5080-cca2-4db6-88d4-981786fa66f2",
+          "name": "requireddocuments",
+          "required": false,
+          "dataType": "@RequiredDocuments",
+          "value": "$requireddocuments",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fe524311-431f-48b3-b825-113463c5fe83",
+          "name": "satat",
+          "required": false,
+          "dataType": "@SATAT",
+          "value": "$satat",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Applicant needs to produce any Government-issued identification with the age/DOB mentioned. Submission of an Expression of Interest (EOI) document through the e-tender portal is mandatory and shall be analyzed by a committee. For approval, one needs to score at least 35 marks out of 100."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "After approval the applicant has to submit a bank guarantee of Rs. 5 lakh/plant for the proposed new Plant or Rs. 1 lakh/plant for the existing plant, soon after which a commercial agreement shall be executed with OMC/GMC for the production and supply of CBG."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

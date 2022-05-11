@@ -1,0 +1,9 @@
+{
+  "id": "9b603804-69c5-4cc6-b589-236b78865916",
+  "name": "PMMY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

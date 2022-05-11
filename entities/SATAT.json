@@ -1,0 +1,9 @@
+{
+  "id": "53c04526-9cc2-4921-b393-6da57c640ce0",
+  "name": "SATAT",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

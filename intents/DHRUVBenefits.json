@@ -1,0 +1,84 @@
+{
+  "id": "7ccbafeb-c872-4ccf-b186-4cc1221af6fb",
+  "name": "DHRUVBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac4e2bc2-fa78-4508-963b-075be920e6e7",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2ed9fb03-f514-410a-9641-4a000f9a6b57",
+          "name": "dhruv",
+          "required": false,
+          "dataType": "@DHRUV",
+          "value": "$dhruv",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The DHRUV will serve as a platform for outstanding and deserving students to explore their talent and achieve excellence in their specific areas of interest. By being moulded to reach their maximum potential, these students will be able to make noteworthy contributions to society."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dhruv Tara students will serve as role models for all the children across the country. The chosen students are envisioned to excel in their fields and bring honor to their country. The scheme will make India become a more innovative country."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The best part of the scheme is that depriving factors like poverty will not weigh down these exceptional students from building their future in the best possible way."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "528b5190-c96d-42dc-bfa1-8aaac93ca2e0",
+  "name": "PoliciesForPension",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

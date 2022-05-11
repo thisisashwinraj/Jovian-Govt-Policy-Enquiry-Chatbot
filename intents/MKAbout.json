@@ -1,0 +1,66 @@
+{
+  "id": "ed08a0ef-1ec2-4cfa-8f47-dcd75b02ef39",
+  "name": "MKAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "149dab9a-e1e1-4fc4-8fc5-cdd27e609b31",
+          "name": "mk",
+          "required": false,
+          "dataType": "@MK",
+          "value": "$mk",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Mission Karmayogi? Choose from the options below",
+          "replies": [
+            "MK Eligibility",
+            "MK Documents",
+            "MK Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mission Karmayogi is a National Programme for Civil Services Capacity Building (NPCSCB). The initiative is meant to reform the Indian Bureaucracy as it intends to lay down the foundations for the Indian civil servants’ capacity building and aims to reinforce governance."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

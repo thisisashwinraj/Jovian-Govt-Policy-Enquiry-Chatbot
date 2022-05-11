@@ -1,0 +1,66 @@
+{
+  "id": "7fc5da3f-e553-415c-a0e5-251cb4386dda",
+  "name": "PMFMEAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f03256d8-1b04-4794-b6cf-80ec1bbc8161",
+          "name": "pmfme",
+          "required": false,
+          "dataType": "@PMFME",
+          "value": "$pmfme",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Formalization of Micro Food Processing Enterprises Scheme? Choose from the options below",
+          "replies": [
+            "PMFME Eligibility",
+            "PMFME Documents",
+            "PMFME Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The PM Formalization of Micro Food Processing Scheme intends to provide financial, technical, and business support to upgrade existing unorganized micro food processing enterprises with an outlay of Rs.10,000 crore."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

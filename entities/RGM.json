@@ -1,0 +1,9 @@
+{
+  "id": "6977aa12-b46e-4eee-b63c-81875420d83d",
+  "name": "RGM",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,74 @@
+{
+  "id": "c4502b24-f0b1-4203-827d-9b9adeeead75",
+  "name": "DDUGJYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d9d7601-d3c8-4ad1-81a2-cd8e7b98e05d",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0cd0e79e-203e-4bc1-bf14-ce9d47e2b81a",
+          "name": "ddugjy",
+          "required": false,
+          "dataType": "@DDUGJY",
+          "value": "$ddugjy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Deen Dayal Upadhyay Gram Jyoti Yojana continues to bring about the electrification of all rural households in the country. The provision of an uninterrupted power supply to schools, police stations, hospitals, panchayats, etc. can help in the overall development of rural areas."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It further improves accessibility to digital services like the internet, radio, television, etc. It creates new avenues for employment as small-scale businesses will grow more rapidly. The scheme via complete electrification also extends to improve the social security levels"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

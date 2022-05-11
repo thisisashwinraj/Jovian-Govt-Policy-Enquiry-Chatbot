@@ -1,0 +1,178 @@
+[
+  {
+    "id": "2c3b334f-f783-4c98-8adb-1897396ef515",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caca0d99-ea28-4872-82a0-3be09e845968",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6a537b2-16ca-4ee1-9ce6-76ec1c1af0ef",
+    "data": [
+      {
+        "text": "What do you know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d3842f8-7be3-4bff-a7ee-8da66c2c40d7",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e54da079-14e6-400b-b0ec-12b6c70ba70c",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything  about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e9ee327-d05c-4825-bfeb-0fa13d51c02a",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "SMS",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f174fa8-eedf-46da-8257-021da4a5a346",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91de31cf-7b63-437b-8cec-b7d583fdd456",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Sahakar Mitra Scheme",
+        "meta": "@SMS",
+        "alias": "sms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

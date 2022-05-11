@@ -1,0 +1,96 @@
+{
+  "id": "21aeaa88-4261-47ac-84ff-efe81f62a4e3",
+  "name": "PMKSYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "311383c4-bfcf-411e-b699-93d3361ee740",
+          "name": "pmksy",
+          "required": false,
+          "dataType": "@PMKSY",
+          "value": "$pmksy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Krishi Sinchai Yojana? Choose from the options below",
+          "replies": [
+            "PMKSY Eligibility",
+            "PMKSY Documents",
+            "PMKSY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Krishi Sinchai Yojana is committed to imperative water conservation and aims at extending cultivated areas with assured irrigation and reducing the wastage of water in the country."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The main components of the scheme include ‘Accelerated Irrigation Benefit Programme’ to speed up the completion of ongoing Major and Medium Irrigation including National Projects, ‘Har Khet ko Pani’ focussing on extending the coverage of irrigation and ‘Per Drop More Crop’ with a vision to create with end to end solution on source creation, distribution, management, field application and extension activities."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Watershed Development is another initiative under this program to improve the management of runoff water and improve soil through moisture-conservation activities"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The \u0027Surface Minor Irrigation’ to provide central assistance to regions with low irrigation potential, Repair, Renovation \u0026 Restoration (RRR) of water bodies and ‘Command Area Development \u0026 Water Management Programme’ to enhance utilization of irrigation potential and thereby the agriculture productivity are also a part of this initiative."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

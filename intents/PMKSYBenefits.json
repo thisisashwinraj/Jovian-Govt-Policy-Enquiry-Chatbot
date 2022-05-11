@@ -1,0 +1,74 @@
+{
+  "id": "841af7f2-1e45-4018-a58b-3b385c83a560",
+  "name": "PMKSYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf4f1752-397f-498b-b8ef-90f33fafffc2",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "30a6cc77-538f-43d5-8223-2c9f51fdcc45",
+          "name": "pmksy",
+          "required": false,
+          "dataType": "@PMKSY",
+          "value": "$pmksy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Krishi Sinchai Yojana will assist in saving considerable amounts of water as well as promote a proper utilization strategy. It will also help in the optimum usage of fertilizers and thereby accelerate the profit margins."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme will aid in reducing the labor costs and loss of soil efficiency, increase the cover of cultivable land and the quality of crops. Furthermore as the yields improve, the total income of the farmers will also be positively impacted."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

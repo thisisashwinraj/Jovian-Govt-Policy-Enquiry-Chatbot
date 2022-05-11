@@ -1,0 +1,76 @@
+{
+  "id": "56057c47-3754-487e-888f-446b6f1d79f4",
+  "name": "PMFBYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b0b3e665-7ed4-400b-aac5-37c1679a8a46",
+          "name": "pmfby",
+          "required": false,
+          "dataType": "@PMFBY",
+          "value": "$pmfby",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about PM Fasal Bima Yojana? Choose from the options below",
+          "replies": [
+            "PMFBY Eligibility",
+            "PMFBY Documents",
+            "PMFBY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pradhan Mantri Fasal Bima Yojana is a crop insurance scheme launched by the Central Government. It renders an extended coverage to under localized risks, post-harvest losses, etc., focuses on generalizing technology for estimation of crops, and of course, encouraging crop insurance."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme has replaced all the other crop insurance schemes in India. Nonetheless, it has assimilated the best features of all the existing schemes and also focused on unfastening the shortcomings."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

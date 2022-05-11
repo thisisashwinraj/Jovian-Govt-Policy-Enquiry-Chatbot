@@ -1,0 +1,9 @@
+{
+  "id": "a2a1ad04-2895-4dad-94bd-bc011b05303a",
+  "name": "PoliciesForGovernance",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

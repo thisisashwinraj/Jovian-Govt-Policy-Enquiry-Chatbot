@@ -1,0 +1,182 @@
+[
+  {
+    "id": "f82c8e8d-14b3-468c-afa6-e1680ccfead8",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4f18507-8896-41b6-9685-dbb32896b5e9",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac8d03bd-5dce-4331-ab41-35a69a93e16b",
+    "data": [
+      {
+        "text": "What do you know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "SSA",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "159d796a-c8da-4999-8f0a-390cc9e55f20",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "SSA",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a85c86-162c-456d-a3ed-0c648960cdf9",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "717f6535-bf57-41d3-be77-9b923b789ac1",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "805bcc5f-1552-418d-a098-38feba11e555",
+    "data": [
+      {
+        "text": "Whats ",
+        "userDefined": false
+      },
+      {
+        "text": "SSA",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a75dcc-872b-48e9-a685-947f93448acc",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarvya Shiksha Abhiyaan",
+        "meta": "@SSA",
+        "alias": "ssa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

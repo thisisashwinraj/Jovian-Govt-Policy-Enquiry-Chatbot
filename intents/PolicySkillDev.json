@@ -1,0 +1,91 @@
+{
+  "id": "73015af4-1edf-4a6e-a458-fb6ac447d468",
+  "name": "PolicySkillDev",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "255dbec8-4606-4cff-9a3b-6414da96d68f",
+          "name": "policiesforskilldev",
+          "required": false,
+          "dataType": "@PoliciesForSkillDev",
+          "value": "$policiesforskilldev",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d92f901b-7f87-48f1-8284-eacfde6fb9a2",
+          "name": "policiesforskilldev1",
+          "required": false,
+          "dataType": "@PoliciesForSkillDev",
+          "value": "$policiesforskilldev1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Interested in learning more about these schemes? Choose from the below options.",
+          "replies": [
+            "PMKVY",
+            "SI",
+            "DHRUV",
+            "PDUSJY"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The government of India aims to  create an empowered workforce for the future through various schemes and training courses."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of the most talked-about schemes undertaken in this regard include Pradhan Mantri Kaushal Vikas Yojana, Skill India Initiative, PM Innovative Learning Programme, and Pandit Deendayal Upadhyay Shramev Jayate Yojana"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ea65c1b8-e422-438d-afa2-b64e165cccc9",
+  "name": "PoliciesForLoans",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

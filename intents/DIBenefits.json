@@ -1,0 +1,74 @@
+{
+  "id": "6326f7d0-ab0f-45dc-bcd8-62c6ad4825e1",
+  "name": "DIBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c45a8300-fb39-4e47-b935-b6f57ea9f345",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "af2e5dd4-211c-4373-9b42-db970a6dffb2",
+          "name": "di",
+          "required": false,
+          "dataType": "@DI",
+          "value": "$di",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Digital India has helped to increase the number of digital transactions related to e-governance. It has helped in increasing digital literacy, creating platforms for collaborative governance by making use of digital platforms, accelerating women empowerment, improving sanitation and easing the process of applying for various government initiatives."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It continues to help in building digital villages with well-equipped facilities like Wi-Fi hotspots, sanitary napkin production units etc. The Common Service Center (CSC) is created under the National e-Governance Project of the Indian government and provides access to information and communication technology (ICT)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

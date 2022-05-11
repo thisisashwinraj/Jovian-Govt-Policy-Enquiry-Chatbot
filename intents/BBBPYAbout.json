@@ -1,0 +1,76 @@
+{
+  "id": "287ca1f4-d52a-4d1e-9b9c-fe5ffbed0d03",
+  "name": "BBBPYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb21ed06-465f-4e9e-bccd-5fd579884cdd",
+          "name": "bbbpy",
+          "required": false,
+          "dataType": "@BBBPY",
+          "value": "$bbbpy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Beti Bachao, Beti Padhao Yojana? Choose from the options below",
+          "replies": [
+            "BBBPY Eligibility",
+            "BBBPY Documents",
+            "BBBPY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Beti Bachao, Beti Padhao initiative was launched by the Indian government to tackle the prevailing gender disparities that the girls are subjected to by addressing the issues of the decreasing child sex ratio and related issues that are hampering the process of women empowerment."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The prime objectives are education of the girl child andtheir mainstream participation, reinforcing the anti-dowry act, prevention of child marriages, and overall safeguarding of the girl children by wiping away the existing gender inequalities."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "7465ff8b-cd8d-4613-80d2-ba7e398b4a91",
+  "name": "EmploymentAndPovertyAlleviation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4b04a03d-d2ca-4ae2-a50c-6aa8861c9eaa",
+          "name": "EmploymentPovertyAlleviation",
+          "required": true,
+          "dataType": "@EmploymentPovertyAlleviation",
+          "value": "$EmploymentPovertyAlleviation",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of schemes are you looking for"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of the important Schemes launched in India related to Employment and Poverty Alleviation include Make in India, Pradhan Mantri Garib Kalyan Yojana, and Startup India"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

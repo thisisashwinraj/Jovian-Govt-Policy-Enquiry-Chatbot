@@ -1,0 +1,94 @@
+{
+  "id": "3c012e8c-b42b-46ac-ad66-d47046af9fd7",
+  "name": "PLIEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4d00fdd8-2036-4fe0-b7cd-809d3ebc54eb",
+          "name": "eligibilitycriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$eligibilitycriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f79d743c-9928-4897-8efd-503304e33c67",
+          "name": "pli",
+          "required": false,
+          "dataType": "@PLI",
+          "value": "$pli",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The eligibility parameters for businesses under the PLI scheme vary based on the selected sector approved under the scheme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For telecom units, the eligibility depends on the brink of collective incremental investments and the sale of produced goods."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "SMEs and other enterprises must hold 50% of their stock of subsidiaries in the food processing sector. And, for pharmaceutical manufacturing businesses, the company’s net worth should not be below 30% of the total investment and the project should be a greenfield project."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For fermentation-based goods, the Domestic Value Addition needs to be at least 90% at least 70% in the case of chemical synthesis-based products."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

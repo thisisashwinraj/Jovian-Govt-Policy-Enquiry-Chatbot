@@ -1,0 +1,186 @@
+[
+  {
+    "id": "6bb76321-7c78-4fa0-a0ad-e970ce479c55",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Niryat Rin Vikas Yojana",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec5adc6b-8ae2-4bcd-8139-9de2446773c0",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Niryat Rin Vikas Yojana",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "203e433a-78d3-4264-a1df-ef4da05f3de1",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "NIRVIK",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      },
+      {
+        "text": " scheme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2894470c-d800-48cf-b992-a954ba06ebea",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "NIRVIK",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "192c08ef-c351-4fb0-9e11-2935909d313e",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Niryat Rin Vikas Yojana",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "131eebbb-4784-4539-b590-b77947022711",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "Niryat Rin Vikas Yojana",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f34c5762-ab33-428e-8922-25b26d508e79",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "NIRVIK",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f101ce7b-16c4-4646-bb9b-0dcc08d3bac3",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Niryat Rin Vikas Yojana",
+        "meta": "@NIRVIK",
+        "alias": "nirvik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

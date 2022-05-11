@@ -1,0 +1,74 @@
+{
+  "id": "9e28b554-d4f2-44be-b4d9-916d0b77bab2",
+  "name": "PMJDYEligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "04f19f28-3a21-4917-b54d-5ffc40d8ee07",
+          "name": "PMJDY",
+          "required": false,
+          "dataType": "@PMJDY",
+          "value": "$PMJDY",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5acc493a-0eee-44b5-b6b5-e2728209fa35",
+          "name": "EligibilityCriteria",
+          "required": false,
+          "dataType": "@EligibilityCriteria",
+          "value": "$EligibilityCriteria",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In order for individuals to open an account, the following criteria must be met:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "First, You must be a citizen of India, second, You should be at least 10 years of age\nand third, You should not have an existing bank account"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

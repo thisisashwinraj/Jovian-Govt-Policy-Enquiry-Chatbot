@@ -1,0 +1,76 @@
+{
+  "id": "a5aeb1b9-6b18-4922-9d54-35f429213e3f",
+  "name": "DDUGJYAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e263273-17bb-4e84-a5b8-62bbee9a686d",
+          "name": "ddugjy",
+          "required": false,
+          "dataType": "@DDUGJY",
+          "value": "$ddugjy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Deen Dayal Upadhyaya Gram Jyoti Yojana? Choose from the options below",
+          "replies": [
+            "DDUGJY Eligibility",
+            "DDUGJY Documents",
+            "DDUGJY Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Deen Dayal Upadhyaya Gram Jyoti Yojana is a flagship program of the Ministry of Power for the provision of uninterrupted power supply to entire rural India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Though the scheme focuses on sub-transmission and distribution of electricity in rural areas, it also extends to renewable or non-conventional sources such as biofuel, geothermal, solar, etc., for power generation where grid connectivity is not feasible."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

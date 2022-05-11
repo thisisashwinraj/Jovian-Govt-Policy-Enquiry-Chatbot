@@ -1,0 +1,9 @@
+{
+  "id": "b0feda71-fbb5-4b3c-bf6b-9c3e09e9df2f",
+  "name": "SERBPOWER",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

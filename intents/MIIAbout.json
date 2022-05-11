@@ -1,0 +1,76 @@
+{
+  "id": "b15a5320-ab5e-4c6f-8630-e58014b38797",
+  "name": "MIIAbout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b3e9916c-7e2f-443b-b783-ee5678391f3c",
+          "name": "mii",
+          "required": false,
+          "dataType": "@MII",
+          "value": "$mii",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Want to know more about Make in India? Choose from the options below",
+          "replies": [
+            "MII Eligibility",
+            "MII Documents",
+            "MII Benefits"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Make in India is an initiative to facilitate investment, foster innovation, build best in class manufacturing infrastructure, make doing business easier, and enhance skill development."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This was one of the first \u0027Vocal for Local\u0027 initiatives that introduced the world to India\u0027s manufacturing sector. This initiative is built on four pillars identified to boost entrepreneurship in India, not just in manufacturing but also in other sectors."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

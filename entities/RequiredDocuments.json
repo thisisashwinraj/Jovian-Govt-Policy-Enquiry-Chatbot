@@ -1,0 +1,9 @@
+{
+  "id": "9bec9413-19a2-44e7-a520-24979a257145",
+  "name": "RequiredDocuments",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

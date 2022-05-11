@@ -1,0 +1,94 @@
+{
+  "id": "c65667cf-d5da-49c5-a3c6-29a0b2dadbbc",
+  "name": "PMFBYBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd3672f3-a744-4974-860f-60cc9379a375",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ed460eae-a964-4ed9-bb8e-d59be484d2ad",
+          "name": "pmfby",
+          "required": false,
+          "dataType": "@PMFBY",
+          "value": "$pmfby",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme involves premium payments by the farmers in favor of PMFBY. In the case of all Kharif crops, 2% of the Sum insured or Actuarial rate (whichever is less) is paid by the farmers"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In the case of all Rabi crops, 1.5% of the sum insured or Actuarial rate (whichever is less) is paid by the farmers. However, in the case of annual commercial and horticultural crops, 5% of the sum insured or Actuarial rate (whichever is less) is paid as a premium."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The scheme ensures better insurance coverage by providing protection against pre-sowing losses, post-harvest losses because of cyclonic rains and unseasonal rainfall in India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are several new innovative techniques and tech-driven facilities such as satellite imagery, vegetation indices, etc. which the scheme foresees for the assistance of farmers."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "ad36fd35-95d7-4273-93d8-091fe2bfcc74",
+  "name": "KVPBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "04c81170-3e00-4e0a-936a-02002370be74",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5f68f122-87df-4093-8eec-9fd25fd2890c",
+          "name": "kvp",
+          "required": false,
+          "dataType": "@KVP",
+          "value": "$kvp",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The benefits offered by Kisan Vikas Patra include options for long-term savings(wherein the value is expected to be doubled in 100 months and this value will be mentioned on the certificate itself)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Since this is a Government scheme, the returns are fixed and secure. Additionally,  KVP certificate may be used as  a collateral  while applying for a loan. The benefits are non transferrable and can be used for tax exemptions."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

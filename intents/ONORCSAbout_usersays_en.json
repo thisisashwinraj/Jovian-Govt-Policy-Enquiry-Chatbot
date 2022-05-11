@@ -1,0 +1,178 @@
+[
+  {
+    "id": "389cc1d5-5076-4340-9853-e1845a1ba3cc",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me the details of the ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "223b82a0-bddd-4687-b76f-462fc517d66b",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "816be692-d206-49c9-84df-d03557c795f4",
+    "data": [
+      {
+        "text": "What do you know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "ONORCS scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf9e77ec-4bbc-4567-bdc1-d7e290632b9e",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "ONORCS",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      },
+      {
+        "text": " policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07e118a6-45bc-4a1e-85de-2e05a2030975",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f2e27b3-94a4-4278-994d-df4709b4f04a",
+    "data": [
+      {
+        "text": "Tell",
+        "userDefined": false
+      },
+      {
+        "text": " me everything about ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc148c15-7783-439a-852c-f16cc3132200",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "ONORCS",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a17ce926-d7cb-4147-bd18-a27c3f275bc1",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "One Nation One Ration Card Scheme",
+        "meta": "@ONORCS",
+        "alias": "onorcs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

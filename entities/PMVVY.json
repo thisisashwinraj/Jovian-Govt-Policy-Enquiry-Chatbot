@@ -1,0 +1,9 @@
+{
+  "id": "1bb15877-f390-4314-8ef2-2ba45afd1d7a",
+  "name": "PMVVY",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

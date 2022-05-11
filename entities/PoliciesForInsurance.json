@@ -1,0 +1,9 @@
+{
+  "id": "d70a1aba-fd15-43ff-8ff1-750ac4612be8",
+  "name": "PoliciesForInsurance",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,74 @@
+{
+  "id": "9b37ac67-a877-4b06-ae31-4bbd5e78a014",
+  "name": "MCOVIDSBenefits",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d4dd22ba-828f-4a41-b3ed-3f454183f6e9",
+          "name": "benefits",
+          "required": false,
+          "dataType": "@Benefits",
+          "value": "$benefits",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5e7f1706-8d8e-4b40-b884-d5800ae4c2dd",
+          "name": "mcovids",
+          "required": false,
+          "dataType": "@MCOVIDS",
+          "value": "$mcovids",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mission COVID will ensure the safety of the drugs developed for fighting the pandemic so that it will not have any ill effect on the patients. The vaccines formulated as part of the scheme will have preferred characteristics applicable to India."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The development of an indigenous, affordable and accessible vaccine will also help in containing the spread of the coronavirus which has been one of the biggest challenges that the Government of the country aims to achieve."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -9,7 +9,7 @@ The project was started in April 2022 as a combined initiative by Ashwin & Gayat
 ### Files and Folders
 **Intents:** This folder contains over 100+ intents that are used to categorize user intentions for each conversation turns.
 <br>**Entities:** This subdirectory contains entities that are used to identify & extract specific data from end-user expressions.
-<br>**agent.json** & **package.json** are inline editor file, & are not overwritten when importing/restoring the dialogflow agent.
+<br>**agent.json** & **package.json** are inline editor file, & are not overwritten when importing/restoring the dialogflow agent
 
 ### Deployment Platforms
 

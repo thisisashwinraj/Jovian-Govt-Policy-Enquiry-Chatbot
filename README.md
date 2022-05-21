@@ -13,15 +13,15 @@ The project was started in April 2022 as a combined initiative by Ashwin & Gayat
 
 ### Deployment Platforms
 
-Direct end-user interactions are handled by Dialogflow in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Messenger. These integrations are fully supported by Dialogflow and are configured with the Dialogflow Console. Dialogflow phone Gateway and a variety of other partner built-in telephony integrations are  currently under alpha/betatesting and is scheduled to be made available in the upcoming version.
+Direct end-user interactions are handled by Dialogflow in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Messenger. These integrations are fully supported by Dialogflow and are configured with the Dialogflow Console. Dialogflow phone Gateway and a variety of other partner built-in telephony integrations are  currently under alpha/beta testing and are scheduled to be made available in the upcoming version.
 
 # Usage, Development and Privacy Policy
 
-To invoke this bot, the user can simply start with a greeting, or a query. The action is set to match the user's language settings. The default welcome intents usually includes a short description of the services that Jovian can deliver. Quick replies, and card responses are available for the Telegram deployment of the bot for user convenience. Dialogflow API requests and responses are logged to Cloud Logging. As per the privacy policy, the users data is totally secure and no maintainer has any access over the messages that the user may send to the action or the responses that it send back.
+To invoke this bot, the user can simply start with a greeting, or a query. The action is set to match the user's language settings. The default welcome intents usually includes a short description of the services that Jovian can deliver. Quick replies, and card responses are available for the Telegram deployment of the bot for user convenience. Dialogflow API requests and responses are logged to Cloud Logging. As per the privacy policy, the users data is totally secure and no maintainer has any access over the messages that the user may send to the action or the responses that it sends back
 
-Interaction logs capture conversation messages from both end-users and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language, device type, and length and frequency of use can be accessed to make better bot. 
+Interaction logs capture conversation messages from both end-users, and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length & frequency of use can be accessed to make better bot. 
 
-The privacy policy for the chatbot can be found here. Jovian does not require the users to sign up into new accounts (the third-parties may require signing up). No cloud functions provided by firebase are used for developing the bot.
+The privacy policy for the chatbot can be found here. Jovian does not require the users to sign up into new accounts (the third-parties may require signing up). No cloud functions provided by Firebase are used for developing the bot.
 
 # Contribution and Guidelines
 
@@ -61,6 +61,6 @@ git push origin main
 All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-Jovian Bot and all of its resources are distributed under [Eclipse Public License 2.0](). The bot is integrated over Telegram and Messenger. The latest released stable version of Jovian Bot is v1.0.0, and is available in English Language. All new releases are logged in the [~/Stable Versions](). The bot is currently in production for general public use.
+Jovian Bot and all of its resources are distributed under [Eclipse Public License 2.0](). The bot is integrated over Telegram and Messenger. The latest released stable version of Jovian Bot is v1.0.0, and is available in English Language. All new releases are logged in the [~/Stable Versions](). The bot is currently in production and more updates will be released in the future.
 
 Upcoming versions will include support for more policies, new platform integrations & better user-intent matchings

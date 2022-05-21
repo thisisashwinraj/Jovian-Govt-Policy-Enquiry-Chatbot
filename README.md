@@ -13,15 +13,15 @@ The project was started in April 2022 as a combined initiative by Ashwin & Gayat
 
 ### Deployment Platforms
 
-Direct end-user interactions are handled by Dialogflow in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Facebook  Messenger. These integrations are fully supported by Dialogflow and are configured with the Dialogflow Console. Dialogflow phone Gateway and partner built-in telephony integrations are  currently under testing and is scheduled to be available in the upcoming version.
+Direct end-user interactions are handled by Dialogflow in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Messenger. These integrations are fully supported by Dialogflow and are configured with the Dialogflow Console. Dialogflow phone Gateway and a variety of other partner built-in telephony integrations are  currently under testing and is scheduled to be made available in the upcoming version.
 
 # Usage, Development and Privacy Policy
 
-To invoke the bot, the  user can simply start with a greeting or a query. The action is set to match the user's language settings. The default welcome intent usually includes a short description of the services that Jovian can deliver. Quick replies and card responses are available for the Telegram deployment of the bot for user convenience. Dialogflow API requests and responses are logged to Cloud Logging. As per the privacy policy, the user data is totally secure and no maintainer has any access over the messages the user may send to the action or the responses that it sends back. The action also does not require the user to provide any account linking or login information.
+To invoke this bot, the user can simply start with a greeting or a query. The action is set to match the user's language settings. The default welcome intents usually includes a short description of the services that Jovian can deliver. Quick replies, and card responses are available for the Telegram deployment of the bot for user convenience. Dialogflow API requests and responses are logged to Cloud Logging. As per the privacy policy, the users data is totally secure and no maintainer has any access over the messages that the user may send to the action or the responses that it sends back.
 
-Interaction logs capture conversation messages from both end-users and the agent. User information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding how many users are using the bot, which geographical regions they are located in, and basic data including users’ language, device type, and length and frequency of use can be accessed and used to make the action better and add features. 
+Interaction logs capture conversation messages from both end-users and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language, device type, and length and frequency of use can be accessed and used to make the action better and add features. 
 
-The privacy policy for the chatbot can be found here. Jovian does not require the users to sign up for new accounts (integrating third -parties may require signing up to their platform). No cloud functions provided by firebase are used for developing the action.
+The privacy policy for the chatbot can be found here. Jovian does not require the users to sign up into new accounts (integrating third -parties may require signing up). No cloud functions provided by firebase are used for developing the bot.
 
 # Contribution and Guidelines
 
@@ -33,7 +33,7 @@ Before cloning the repository, make sure to navigate to the working subdirectory
 
 ### Edit the Source Code and Make Desired Changes
 
-Go to the Dialogflow Console and select custom intent. Import the code into DialogFlow. Make the appropriate changes, test the bot agent on the simulator, download the ZIP file and make a pull request on this repository.
+Go to the Dialogflow Console and select custom intent option. Import the code into DialogFlow. Make the appropriate changes, test the dialogflow agent on the simulator, download the ZIP file and make a pull request on this repository.
 
 ### Submitting a Pull Request
 Before opening a Pull Request, it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist]() before submitting your PR.

@@ -1,6 +1,6 @@
 # Jovian-Bot
 
-Jovian is a Dialogflow powered conversational chatbot developed to deliver information regarding latest government schemes and affiliated policies for public services. The NLP based conversational platform can be used to interact with the public, provide assistance with tasks, analyse sentiments and collect and analyze data to offer appropriate services
+Jovian is a DialogFlow powered conversational chatbot developed to deliver information regarding latest government schemes and affiliated policies for public services. The NLP based conversational platform can be used to interact with the public, provide assistance with tasks, analyse sentiments and collect and analyze data to offer appropriate services
 
 The project was started in April 2022 as a combined initiative by Ashwin & Gayathri, and has been licensed under the Eclipse Public License 2.0 . All PRs are maintained by Ashwin. Try interacting with Jovian deployed over Telegram here.
 
@@ -21,7 +21,7 @@ To invoke this bot, the user can simply start with a greeting, or a query. The a
 
 Interaction logs capture conversation messages from both end-users, and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length & frequency of use can be accessed to make better bot. 
 
-The privacy policy for the chatbot can be found here. Jovian does not require the users to sign up into new accounts (the third-parties may require signing up). No cloud functions provided by Firebase are used for developing the bot.
+The privacy policy for the chatbot can be found here. Jovian does not require the users to sign up into new accounts (the third-parties may require signing up). No cloud functions provided by Firebase are used for developing this bot
 
 # Contribution and Guidelines
 
@@ -61,6 +61,6 @@ git push origin main
 All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-Jovian Bot and all of its resources are distributed under [Eclipse Public License 2.0](). The bot is integrated over Telegram and Messenger. The latest released stable version of Jovian Bot is v1.0.0, and is available in English Language. All new releases are logged in the [~/Stable Versions](). The bot is currently in production and more updates will be released in the future.
+Jovian Bot and all of its resources are distributed under [Eclipse Public License 2.0](). The bot is integrated over Telegram and Messenger. The latest released stable version of Jovian Bot is v1.0.0, and is available in English Language. All new releases are logged in the [~/Versions](). The bot is currently in production and more updates will be released in future.
 
-Upcoming versions will include support for more policies, new platform integrations & better user-intent matchings
+Upcoming versions will include support for more policies, new platform integrations, & better user-intent matchings

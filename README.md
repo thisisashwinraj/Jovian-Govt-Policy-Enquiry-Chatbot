@@ -2,7 +2,7 @@
 
 Jovian is a DialogFlow powered conversational chatbot developed to deliver information regarding latest government schemes and affiliated policies for public services. The NLP based conversational platform can be used to interact with the public, provide assistance with tasks, analyse sentiments and collect and analyze data to offer appropriate services
 
-The project was started in April 2022 as a combined initiative by Ashwin & Gayathri, and has been licensed under the Eclipse Public License 2.0 . All PRs are maintained by Ashwin. Try interacting with Jovian deployed over Telegram here.
+This project was started in April 2022 as a combined initiative by Ashwin & Gayathri, and has been licensed under the Eclipse Public License 2.0 . All PRs are maintained by Ashwin. Try interacting with Jovian deployed over Telegram here.
 
 # SubDirectories and Deployment Platforms
 
@@ -13,7 +13,7 @@ The project was started in April 2022 as a combined initiative by Ashwin & Gayat
 
 ### Deployment Platforms
 
-Direct end-user interactions are handled by DialogFlow in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Messenger. These integrations are fully supported by DialogFlow and are configured with the Dialogflow Console. DialogFlow phone Gateway and a variety of other partner built-in telephony integrations are  currently under alpha/beta testing and are scheduled to be made available in the upcoming versions.
+Direct end-user interactions are handled by DialogFlow in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Messenger. These integrations are fully supported by DialogFlow and are configured with the DialogFlow Console. DialogFlow phone Gateway and a variety of other partner built-in telephony integrations are currently under alpha/beta testing and are scheduled to be made available in the upcoming versions.
 
 # Usage, Development and Privacy Policy
 

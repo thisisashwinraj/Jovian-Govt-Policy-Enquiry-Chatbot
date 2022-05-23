@@ -19,6 +19,8 @@ Direct end-user interactions are handled by DialogFlow in a platform-specific wa
 
 To invoke this bot, the user can simply start with a greeting, or a query. The action is set to match the user's language settings. The default welcome intents usually includes a short description of the services that Jovian can deliver. Quick replies, and card responses are available for the Telegram deployment of the bot for user convenience. Dialogflow API requests and responses are logged to Cloud Logging. As per the privacy policy, the users data is totally secure and no maintainer has any access over the messages that the user may send to the action or the responses that it sends back
 
+![](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/flutterbot/assets/jovianBotDemo.gif)
+
 Interaction logs capture conversation messages from both end-users, and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length, & frequency of use can be accessed to make bot better
 
 The Privacy Policy for this chatbot can be found here. Jovian does not require the users to sign up into a new account (some third-parties may require signingup). No cloud functions provided by Firebase are used for developing this bot

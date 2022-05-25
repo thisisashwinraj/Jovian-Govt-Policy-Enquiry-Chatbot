@@ -13,7 +13,7 @@ This project was started in April 2022 as a combined initiative by [Ashwin](http
 
 ### Deployment Platforms
 
-Direct end-user interactions are handled by DialogFlow in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Messenger. These integrations are fully supported by DialogFlow and are configured with the DialogFlow Console. DialogFlow phone Gateway and a variety of other partner built-in telephony integrations are currently under alpha/beta testing and are scheduled to be made available in the upcoming versions.
+Direct end-user interactions are handled by [DialogFlow](https://dialogflow.cloud.google.com/) in a platform-specific way. Currently, Jovian is integrated only with text based platforms like Telegram and Messenger. These integrations are fully supported by DialogFlow and are configured with the DialogFlow Console. DialogFlow phone Gateway and a variety of other partner built-in telephony integrations are currently under alpha/beta testing and are scheduled to be made available in the upcoming versions.
 
 # Usage, Development and Privacy Policy
 

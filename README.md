@@ -21,7 +21,7 @@ To invoke this bot, the user can simply start with a greeting, or a query. This 
 
 ![](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/flutterbot/assets/jovianBotDemo.gif)
 
-Interaction logs capture conversation messages from both end-users, and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length, & frequency of use can be accessed to make bot better
+[Interaction logs](https://cloud.google.com/dialogflow/es/docs/interaction-logging) capture conversation messages from both end-users, and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length, & frequency of use can be accessed to make bot better
 
 The Privacy Policy for this chatbot can be found [here](https://drive.google.com/file/d/15lGNlJJCo90k0x6s2jnaozdx_fpK8lv8/view?usp=sharing). Jovian does not require the users to sign up into a new account (some third-parties may require signingup). No cloud functions provided by Firebase are used for developing this bot
 

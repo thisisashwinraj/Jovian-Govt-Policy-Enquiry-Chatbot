@@ -35,7 +35,7 @@ Before cloning the repository, make sure to navigate to the working subdirectory
 
 ### Edit the Source Code and Make Desired Changes
 
-Goto the DialogflowConsole and select custom intent option. Import the code into Dialogflow. Make the appropriate changes, test the dialogflow agent on the simulator, download the ZIP file and make a pull request on this repository.
+Goto the [DialogflowConsole](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-nLqpgOf5AhWuR2wGHSJcBD8QFnoECAIQAQ&url=https%3A%2F%2Fdialogflow.cloud.google.com%2F&usg=AOvVaw2AsLbzcr82t1GsECYjUNf0) and select custom intent option. Import the code into Dialogflow. Make the appropriate changes, test the dialogflow agent on the simulator, download the ZIP file and make a pull request on this repository.
 
 ### Submitting a Pull Request
 Before opening a Pull Request, it is recommended to have a look at the full contributing page to make sure your code complies with all the pull request guidelines. Please ensure that you satisfy the [~/checklist](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md) before submitting your PR.

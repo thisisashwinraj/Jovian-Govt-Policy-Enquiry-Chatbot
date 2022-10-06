@@ -8,8 +8,8 @@ This project was started in April 2022 as a combined initiative by [Ashwin](http
 
 ### Files and Folders
 **[Intents:](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good)** This folder contains over 100+ intents that are used to categorize user intentions, for each conversation turns.
-<br>**[Entities:](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/tree/main/entities)** This subdirectory contains entities that are used to identify & extract specific data from end-user expressions.
-<br>**[agent.json](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/agent.json)** & **[package.json](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/package.json)** are inline editor file, & are not overwritten when importing/restoring the dialogflow agent
+<br>**[Entities:](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/tree/main/entities)** This subdirectory contains entities that are used to identify & extract specific data from end-user expressions.
+<br>**[agent.json](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/agent.json)** & **[package.json](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/package.json)** are inline editor file, & are not overwritten when importing/restoring the dialogflow agent
 
 ### Deployment Platforms
 
@@ -19,7 +19,7 @@ Direct end-user interactions are handled by [DialogFlow](https://dialogflow.clou
 
 To invoke this bot, the user can simply start with a greeting or a query. This agent is set to match with user's language settings. The [default welcome intents](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/intents/Default%20Welcome%20Intent.json) usually includes a short description of the services that Jovian can deliver. Quick replies, and card responses are available for the Telegram deployment of the bot for user convenience. [Dialogflow API](https://cloud.google.com/dialogflow/es/docs/reference/rest/v2-overview) requests and responses are logged to [Cloud Logging](https://cloud.google.com/logging). As per the privacy policy, the users data is totally secure and no maintainer has any access over the messages that the user may send to the action or the responses that it sends back
 
-![](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/flutterbot/assets/jovianBotDemo.gif)
+![](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/flutterbot/assets/jovianBotDemo.gif)
 
 [Interaction logs](https://cloud.google.com/dialogflow/es/docs/interaction-logging) capture conversation messages from both end-users, and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length, & frequency of use can be accessed to make bot better
 

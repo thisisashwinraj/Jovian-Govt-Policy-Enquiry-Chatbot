@@ -63,6 +63,6 @@ git push origin main
 All pull requests are reviewed on a monthly rolling basis. Your understanding is appreciate during this review process.
 
 # License and Project Status
-Jovian Bot and all of its resources are distributed under [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/LICENSE). The bot is integrated with [Telegram](http://t.me/jovian_bot) and Messenger. The latest released stable version of Jovian Bot is v1.0.0, and is available in English Language. All new releases are logged in the [/Versions](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/tree/main/versions). The agent is currently in beta phase, and more updates will be released in future
+Jovian Bot and all of its resources are distributed under [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/blob/main/LICENSE). The bot is integrated with [Telegram](http://t.me/jovian_bot) and Messenger. The latest released stable version of Jovian Bot is v0.1.0, and is available in English Language. All new releases are logged in the [/Versions](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good/tree/main/versions). The agent is currently in beta phase, and more updates will be released in future
 
 Upcoming versions will include support for more policies, new platform integrations, & better user-intents matchings.

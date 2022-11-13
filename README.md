@@ -1,3 +1,6 @@
+![Jovian Banner](https://github.com/thisisashwinraj/Jovian-Govt-Policy-Enquiry-Chatbot/blob/main/assets/Jovian-Banner-Dark.png#gh-dark-mode-only)
+![Jovian Banner](https://github.com/thisisashwinraj/Jovian-Govt-Policy-Enquiry-Chatbot/blob/main/assets/Jovian-Banner-Light.png#gh-light-mode-only)
+
 # Jovian Bot - ChatBot for E-Governance
 
 Jovian is a [DialogFlow](https://cloud.google.com/dialogflow) powered conversational chatbot developed to deliver information regarding latest Government schemes and affiliated policies for public services. The NLP based conversational platform can be used to interact with the public, provide assistance with tasks, analyse sentiments and collect and analyze data to offer appropriate services

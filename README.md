@@ -2,13 +2,13 @@
 
 Jovian is a [DialogFlow](https://cloud.google.com/dialogflow) powered conversational chatbot developed to deliver information regarding latest Government schemes and affiliated policies for public services. The NLP based conversational platform can be used to interact with the public, provide assistance with tasks, analyse sentiments and collect and analyze data to offer appropriate services
 
-This project was started in April 2022 as a combined initiative by [Ashwin](https://github.com/thisisashwinraj), & [Gayathri](https://github.com/rameshgayathri), and has been licensed under the [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/LICENSE) . All PR's are maintained by Ashwin. Try interacting with Jovian deployed over Telegram [here](http://t.me/jovian_bot).
+This project was started in April 2022 as a combined initiative by [Ashwin](https://github.com/thisisashwinraj), & [Gayathri](https://github.com/rameshgayathri), and has been licensed under the [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/LICENSE) . All PR's are maintained by Ashwin. Try interacting with Jovian deployed over Telegram [here](http://t.me/jovian_bot)
 
 # SubDirectories and Deployment Platforms
 
 ### Files and Folders
-**[Intents:](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good)** This folder contains over 100+ intents that are used to categorize user intentions, for each conversation turns.
-<br>**[Entities:](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/tree/main/entities)** This subdirectory contains entities that are used to identify & extract specific data from end-user expressions.
+**[Intents:](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good)** This folder contains over 100+ intents that are used to categorize user intentions, for each conversation turns
+<br>**[Entities:](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/tree/main/entities)** This subdirectory contains entities that are used to identify & extract specific data from end-user expressions
 <br>**[agent.json](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/agent.json)** & **[package.json](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/package.json)** are inline editor file, & are not overwritten when importing/restoring the dialogflow agent
 
 ### Deployment Platforms
@@ -21,7 +21,7 @@ To invoke this bot, the user can simply start with a greeting or a query. This a
 
 ![](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/flutterbot/assets/jovianBotDemo.gif)
 
-[Interaction logs](https://cloud.google.com/dialogflow/es/docs/interaction-logging) capture conversation messages from both end-users, and the agent. This user information may reside within the agent's logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length, & frequency of use can be accessed to make bot better
+[Interaction logs](https://cloud.google.com/dialogflow/es/docs/interaction-logging) capture conversation messages from both end-users, and the agent. This user information may reside within the agents logs stored by Dialogflow for upto 400 days. Interactions that had issues with intent matching show a warning icon in yellow and the interactions that had webhook errors show a warning icon in red. Usage data such as information regarding the number of users using the bot, the geographical regions they are located in, and basic data including users’ language preference, device type, and length, & frequency of use can be accessed to make bot better
 
 The Privacy Policy for this chatbot can be found [here](https://www.drive.google.com/file/d/15lGNlJJCo90k0x6s2jnaozdx_fpK8lv8/view?usp=sharing). Jovian does not require the users to sign up into a new account (some third-parties may require signingup). No cloud functions provided by Firebase are used for developing this bot
 

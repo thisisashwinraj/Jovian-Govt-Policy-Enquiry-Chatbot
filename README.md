@@ -6,7 +6,6 @@ Jovian is a [DialogFlow](https://cloud.google.com/dialogflow) powered conversati
 This project was started in April 2022 as a combined initiative by [Ashwin](https://github.com/thisisashwinraj), & [Gayathri](https://github.com/rameshgayathri), and has been licensed under the [Eclipse Public License 2.0](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/blob/main/LICENSE) . All PR's are maintained by Ashwin. Try interacting with Jovian deployed over Telegram [here](http://t.me/jovian_bot)
 
 # SubDirectories and Deployment Platforms
-
 ### Files and Folders
 **[Intents:](https://github.com/thisisashwinraj/JovianBot-ChatBot-For-Social-Good)** This folder contains over 100+ intents that are used to categorize user intentions, for each conversation turns
 <br>**[Entities:](https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot/tree/main/entities)** This subdirectory contains entities that are used to identify & extract specific data from end-user expressions

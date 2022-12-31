@@ -31,7 +31,7 @@ To start contributing to the project, clone the repository into your local syste
 ```
 https://github.com/thisisashwinraj/JovianBot-Policy-Chatbot.git
 ```
-Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected SSH key, or by using [Git CLI](https://cli.github.com/). The changes may additionally be performed by opening this repo using [GitHub Desktop](https://desktop.github.com/)
+Before cloning the repository, make sure to navigate to the working subdirectory of your command line interface and ensure that no folder with same name exists. Other ways to clone the repository includes using a password protected [SSH key](git@github.com:thisisashwinraj/Jovian-Govt-Policy-Enquiry-Chatbot.git), or by using [Git CLI](https://cli.github.com/). The changes may additionally be performed by opening this repo using [GitHub Desktop](https://desktop.github.com/)
 
 ### Edit the Source Code and Make Desired Changes
 
